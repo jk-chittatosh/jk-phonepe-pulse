@@ -1,0 +1,279 @@
+{
+    "success": true,
+    "code": "SUCCESS",
+    "data": {
+        "hoverDataList": [
+            {
+                "name": "dhamtari district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 1839169,
+                        "amount": 3261297839.925982
+                    }
+                ]
+            },
+            {
+                "name": "korba district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 6482877,
+                        "amount": 9217368563.787317
+                    }
+                ]
+            },
+            {
+                "name": "surajpur district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 2152901,
+                        "amount": 3414032926.0130477
+                    }
+                ]
+            },
+            {
+                "name": "baloda bazar district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 3518514,
+                        "amount": 5665773484.94288
+                    }
+                ]
+            },
+            {
+                "name": "sukma district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 617457,
+                        "amount": 1507874121.1545746
+                    }
+                ]
+            },
+            {
+                "name": "raigarh district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 6953143,
+                        "amount": 10866819292.413807
+                    }
+                ]
+            },
+            {
+                "name": "janjgir champa district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 6418156,
+                        "amount": 9565720454.277157
+                    }
+                ]
+            },
+            {
+                "name": "jashpur district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 1842899,
+                        "amount": 3357567336.012565
+                    }
+                ]
+            },
+            {
+                "name": "balod district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 1788680,
+                        "amount": 2920249115.0517426
+                    }
+                ]
+            },
+            {
+                "name": "kabirdham district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 1890334,
+                        "amount": 2947966125.8460627
+                    }
+                ]
+            },
+            {
+                "name": "surguja district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 3814390,
+                        "amount": 6107066837.900622
+                    }
+                ]
+            },
+            {
+                "name": "dantewada district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 957773,
+                        "amount": 1785681996.4817522
+                    }
+                ]
+            },
+            {
+                "name": "gariyaband district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 1226883,
+                        "amount": 2015058785.2967784
+                    }
+                ]
+            },
+            {
+                "name": "durg district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 13554254,
+                        "amount": 19339415904.388374
+                    }
+                ]
+            },
+            {
+                "name": "rajnandgaon district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 4284921,
+                        "amount": 7037763265.735464
+                    }
+                ]
+            },
+            {
+                "name": "raipur district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 31131873,
+                        "amount": 46778811056.547844
+                    }
+                ]
+            },
+            {
+                "name": "narayanpur district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 355877,
+                        "amount": 655917400.9782778
+                    }
+                ]
+            },
+            {
+                "name": "kanker district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 1931954,
+                        "amount": 3702057060.147361
+                    }
+                ]
+            },
+            {
+                "name": "korea district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 2156896,
+                        "amount": 3361419242.8768406
+                    }
+                ]
+            },
+            {
+                "name": "mungeli district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 1336917,
+                        "amount": 2234057058.141594
+                    }
+                ]
+            },
+            {
+                "name": "bilaspur district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 11026765,
+                        "amount": 15470182616.440014
+                    }
+                ]
+            },
+            {
+                "name": "balrampur district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 1652393,
+                        "amount": 3247393592.938486
+                    }
+                ]
+            },
+            {
+                "name": "bijapur district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 825640,
+                        "amount": 1692585254.4603574
+                    }
+                ]
+            },
+            {
+                "name": "bemetara district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 1529354,
+                        "amount": 2689553868.8986735
+                    }
+                ]
+            },
+            {
+                "name": "bastar district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 2787919,
+                        "amount": 4723340575.37052
+                    }
+                ]
+            },
+            {
+                "name": "kondagaon district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 1218095,
+                        "amount": 2074544813.2730875
+                    }
+                ]
+            },
+            {
+                "name": "mahasamund district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 3288014,
+                        "amount": 5542158574.479666
+                    }
+                ]
+            }
+        ]
+    },
+    "responseTimestamp": 1669732254213
+}

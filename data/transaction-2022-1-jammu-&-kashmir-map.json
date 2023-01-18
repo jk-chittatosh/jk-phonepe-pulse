@@ -1,0 +1,229 @@
+{
+    "success": true,
+    "code": "SUCCESS",
+    "data": {
+        "hoverDataList": [
+            {
+                "name": "muzaffarabad district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 5151,
+                        "amount": 19960049.91358368
+                    }
+                ]
+            },
+            {
+                "name": "doda district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 243924,
+                        "amount": 421316780.2833054
+                    }
+                ]
+            },
+            {
+                "name": "samba district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 588078,
+                        "amount": 1229539785.5198188
+                    }
+                ]
+            },
+            {
+                "name": "mirpur district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 38244,
+                        "amount": 124084071.18939105
+                    }
+                ]
+            },
+            {
+                "name": "srinagar district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 2743701,
+                        "amount": 5949336258.494824
+                    }
+                ]
+            },
+            {
+                "name": "baramulla district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 877608,
+                        "amount": 1607194898.3390284
+                    }
+                ]
+            },
+            {
+                "name": "jammu district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 5510056,
+                        "amount": 11881749307.528316
+                    }
+                ]
+            },
+            {
+                "name": "ganderbal district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 210863,
+                        "amount": 345901039.9280174
+                    }
+                ]
+            },
+            {
+                "name": "udhampur district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 729905,
+                        "amount": 1568037829.8497906
+                    }
+                ]
+            },
+            {
+                "name": "bandipore district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 259483,
+                        "amount": 442350711.2491821
+                    }
+                ]
+            },
+            {
+                "name": "reasi district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 362457,
+                        "amount": 730878668.0515049
+                    }
+                ]
+            },
+            {
+                "name": "shopian district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 162032,
+                        "amount": 256594552.48595798
+                    }
+                ]
+            },
+            {
+                "name": "poonch district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 242450,
+                        "amount": 638025507.382849
+                    }
+                ]
+            },
+            {
+                "name": "kathua district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 608852,
+                        "amount": 1177353985.585809
+                    }
+                ]
+            },
+            {
+                "name": "kishtwar district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 142061,
+                        "amount": 253794904.9452212
+                    }
+                ]
+            },
+            {
+                "name": "pulwama district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 508605,
+                        "amount": 1004677770.5886711
+                    }
+                ]
+            },
+            {
+                "name": "ramban district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 212611,
+                        "amount": 426250571.16478634
+                    }
+                ]
+            },
+            {
+                "name": "rajouri district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 397302,
+                        "amount": 1014911355.8101926
+                    }
+                ]
+            },
+            {
+                "name": "kulgam district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 300260,
+                        "amount": 402883161.9725286
+                    }
+                ]
+            },
+            {
+                "name": "budgam district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 718312,
+                        "amount": 1319712135.4938066
+                    }
+                ]
+            },
+            {
+                "name": "anantnag district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 728868,
+                        "amount": 1032527025.5719063
+                    }
+                ]
+            },
+            {
+                "name": "kupwara district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 654488,
+                        "amount": 1300783254.8105645
+                    }
+                ]
+            }
+        ]
+    },
+    "responseTimestamp": 1651127622253
+}

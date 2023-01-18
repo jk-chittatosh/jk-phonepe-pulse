@@ -1,0 +1,156 @@
+{
+    "success": true,
+    "code": "SUCCESS",
+    "data": {
+        "states": null,
+        "districts": [
+            {
+                "entityName": "west tripura",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 1340631,
+                    "amount": 2620170134.665219
+                }
+            },
+            {
+                "entityName": "north tripura",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 310764,
+                    "amount": 699778044.1822658
+                }
+            },
+            {
+                "entityName": "sepahijala",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 257586,
+                    "amount": 636388326.2869308
+                }
+            },
+            {
+                "entityName": "south tripura",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 242720,
+                    "amount": 632737978.788888
+                }
+            },
+            {
+                "entityName": "gomati",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 230019,
+                    "amount": 517368490.15875137
+                }
+            },
+            {
+                "entityName": "dhalai",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 216216,
+                    "amount": 501758621.1580514
+                }
+            },
+            {
+                "entityName": "unakoti",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 148265,
+                    "amount": 349475550.53661186
+                }
+            },
+            {
+                "entityName": "khowai",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 124989,
+                    "amount": 289652618.573128
+                }
+            }
+        ],
+        "pincodes": [
+            {
+                "entityName": "799001",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 331041,
+                    "amount": 646519724.2691705
+                }
+            },
+            {
+                "entityName": "799003",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 146078,
+                    "amount": 273820222.0061229
+                }
+            },
+            {
+                "entityName": "799006",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 110660,
+                    "amount": 198187734.14251772
+                }
+            },
+            {
+                "entityName": "799002",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 99326,
+                    "amount": 184391648.29607794
+                }
+            },
+            {
+                "entityName": "799007",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 81097,
+                    "amount": 156834509.6687275
+                }
+            },
+            {
+                "entityName": "799102",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 75836,
+                    "amount": 176590209.86560526
+                }
+            },
+            {
+                "entityName": "799114",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 73949,
+                    "amount": 166978873.0450884
+                }
+            },
+            {
+                "entityName": "799250",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 71594,
+                    "amount": 163105645.28297308
+                }
+            },
+            {
+                "entityName": "799004",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 65225,
+                    "amount": 131348141.0895373
+                }
+            },
+            {
+                "entityName": "799005",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 63965,
+                    "amount": 100090144.61204371
+                }
+            }
+        ]
+    },
+    "responseTimestamp": 1651127581770
+}

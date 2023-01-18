@@ -1,0 +1,39 @@
+{
+    "success": true,
+    "code": "SUCCESS",
+    "data": {
+        "hoverDataList": [
+            {
+                "name": "diu district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 148559,
+                        "amount": 279739481.9642375
+                    }
+                ]
+            },
+            {
+                "name": "daman district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 2317701,
+                        "amount": 2638822275.269265
+                    }
+                ]
+            },
+            {
+                "name": "dadra and nagar haveli district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 3999361,
+                        "amount": 4602085602.265934
+                    }
+                ]
+            }
+        ]
+    },
+    "responseTimestamp": 1669732350552
+}

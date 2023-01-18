@@ -1,0 +1,124 @@
+{
+    "success": true,
+    "code": "SUCCESS",
+    "data": {
+        "states": null,
+        "districts": [
+            {
+                "entityName": "east",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 1540255,
+                    "amount": 3736097005.542384
+                }
+            },
+            {
+                "entityName": "south",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 391808,
+                    "amount": 756330708.2028979
+                }
+            },
+            {
+                "entityName": "west",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 215921,
+                    "amount": 578171483.8935817
+                }
+            },
+            {
+                "entityName": "north",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 174097,
+                    "amount": 540506472.6682708
+                }
+            }
+        ],
+        "pincodes": [
+            {
+                "entityName": "737101",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 766826,
+                    "amount": 1908886120.2727275
+                }
+            },
+            {
+                "entityName": "737102",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 209601,
+                    "amount": 530663891.528832
+                }
+            },
+            {
+                "entityName": "737132",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 180548,
+                    "amount": 323305054.1533619
+                }
+            },
+            {
+                "entityName": "737134",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 163476,
+                    "amount": 367603628.9518961
+                }
+            },
+            {
+                "entityName": "737135",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 137789,
+                    "amount": 286425187.3430251
+                }
+            },
+            {
+                "entityName": "737136",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 119900,
+                    "amount": 163813399.01257223
+                }
+            },
+            {
+                "entityName": "737126",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 106692,
+                    "amount": 254862677.89692697
+                }
+            },
+            {
+                "entityName": "737113",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 105494,
+                    "amount": 315132632.0636008
+                }
+            },
+            {
+                "entityName": "737120",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 104473,
+                    "amount": 350115653.0803326
+                }
+            },
+            {
+                "entityName": "737103",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 77714,
+                    "amount": 237339189.39452797
+                }
+            }
+        ]
+    },
+    "responseTimestamp": 1669732247364
+}

@@ -1,0 +1,379 @@
+{
+    "success": true,
+    "code": "SUCCESS",
+    "data": {
+        "hoverDataList": [
+            {
+                "name": "tiruchirappalli district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 8564920,
+                        "amount": 16339844623.273811
+                    }
+                ]
+            },
+            {
+                "name": "ramanathapuram district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 2203852,
+                        "amount": 4657168292.975974
+                    }
+                ]
+            },
+            {
+                "name": "krishnagiri district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 14932340,
+                        "amount": 25680854032.527496
+                    }
+                ]
+            },
+            {
+                "name": "cuddalore district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 4680299,
+                        "amount": 8326894677.322099
+                    }
+                ]
+            },
+            {
+                "name": "kancheepuram district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 16476680,
+                        "amount": 22598905113.9707
+                    }
+                ]
+            },
+            {
+                "name": "tiruppur district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 17847117,
+                        "amount": 25599159008.871284
+                    }
+                ]
+            },
+            {
+                "name": "dharmapuri district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 6110827,
+                        "amount": 12322253266.415527
+                    }
+                ]
+            },
+            {
+                "name": "thoothukkudi district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 3019557,
+                        "amount": 5929644411.408558
+                    }
+                ]
+            },
+            {
+                "name": "thanjavur district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 3516046,
+                        "amount": 7247067631.582065
+                    }
+                ]
+            },
+            {
+                "name": "madurai district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 18854500,
+                        "amount": 34963057317.53805
+                    }
+                ]
+            },
+            {
+                "name": "tiruvannamalai district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 4546341,
+                        "amount": 8676598240.042643
+                    }
+                ]
+            },
+            {
+                "name": "salem district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 31403065,
+                        "amount": 50435972371.685875
+                    }
+                ]
+            },
+            {
+                "name": "nagapattinam district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 1844678,
+                        "amount": 3606593436.59481
+                    }
+                ]
+            },
+            {
+                "name": "tirupathur district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 4286229,
+                        "amount": 7637805182.874846
+                    }
+                ]
+            },
+            {
+                "name": "ariyalur district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 1057782,
+                        "amount": 2096516777.8551369
+                    }
+                ]
+            },
+            {
+                "name": "chennai district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 42908667,
+                        "amount": 65344650467.52281
+                    }
+                ]
+            },
+            {
+                "name": "the nilgiris district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 2499125,
+                        "amount": 4071937674.8550215
+                    }
+                ]
+            },
+            {
+                "name": "erode district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 9576460,
+                        "amount": 15897874506.901472
+                    }
+                ]
+            },
+            {
+                "name": "karur district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 2308386,
+                        "amount": 4542659398.617556
+                    }
+                ]
+            },
+            {
+                "name": "kallakkurichi district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 3031305,
+                        "amount": 5829974361.302319
+                    }
+                ]
+            },
+            {
+                "name": "viluppuram district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 3531557,
+                        "amount": 6179829272.664677
+                    }
+                ]
+            },
+            {
+                "name": "pudukkottai district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 2149117,
+                        "amount": 4536703248.458712
+                    }
+                ]
+            },
+            {
+                "name": "perambalur district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 1062776,
+                        "amount": 2063752415.6349826
+                    }
+                ]
+            },
+            {
+                "name": "coimbatore district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 43610373,
+                        "amount": 63815834929.8924
+                    }
+                ]
+            },
+            {
+                "name": "virudhunagar district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 3256212,
+                        "amount": 6768626547.405922
+                    }
+                ]
+            },
+            {
+                "name": "dindigul district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 5468519,
+                        "amount": 11010004404.187984
+                    }
+                ]
+            },
+            {
+                "name": "sivaganga district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 2158718,
+                        "amount": 4655481935.624228
+                    }
+                ]
+            },
+            {
+                "name": "tenkasi district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 1743856,
+                        "amount": 3976292693.820149
+                    }
+                ]
+            },
+            {
+                "name": "chengalpattu district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 78987490,
+                        "amount": 106079722725.66629
+                    }
+                ]
+            },
+            {
+                "name": "kanniyakumari district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 3457993,
+                        "amount": 7370866205.985282
+                    }
+                ]
+            },
+            {
+                "name": "tirunelveli district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 3362624,
+                        "amount": 6665454588.874087
+                    }
+                ]
+            },
+            {
+                "name": "thiruvallur district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 25690184,
+                        "amount": 40124901027.15738
+                    }
+                ]
+            },
+            {
+                "name": "theni district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 2726196,
+                        "amount": 5802007462.408134
+                    }
+                ]
+            },
+            {
+                "name": "ranipet district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 3307025,
+                        "amount": 6087756257.31634
+                    }
+                ]
+            },
+            {
+                "name": "namakkal district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 5427150,
+                        "amount": 10398967389.719395
+                    }
+                ]
+            },
+            {
+                "name": "vellore district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 6719587,
+                        "amount": 12004282971.363426
+                    }
+                ]
+            },
+            {
+                "name": "thiruvarur district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 1168622,
+                        "amount": 2533305502.950427
+                    }
+                ]
+            }
+        ]
+    },
+    "responseTimestamp": 1669732334138
+}

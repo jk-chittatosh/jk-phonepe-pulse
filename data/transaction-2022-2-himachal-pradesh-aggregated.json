@@ -1,0 +1,61 @@
+{
+    "success": true,
+    "code": "SUCCESS",
+    "data": {
+        "from": 1648751400000,
+        "to": 1656354600000,
+        "transactionData": [
+            {
+                "name": "Merchant payments",
+                "paymentInstruments": [
+                    {
+                        "type": "TOTAL",
+                        "count": 10591420,
+                        "amount": 7697399368.089639
+                    }
+                ]
+            },
+            {
+                "name": "Peer-to-peer payments",
+                "paymentInstruments": [
+                    {
+                        "type": "TOTAL",
+                        "count": 7109948,
+                        "amount": 24407668318.014194
+                    }
+                ]
+            },
+            {
+                "name": "Recharge & bill payments",
+                "paymentInstruments": [
+                    {
+                        "type": "TOTAL",
+                        "count": 3520538,
+                        "amount": 1553155243.3951051
+                    }
+                ]
+            },
+            {
+                "name": "Financial Services",
+                "paymentInstruments": [
+                    {
+                        "type": "TOTAL",
+                        "count": 16901,
+                        "amount": 20627276.079190243
+                    }
+                ]
+            },
+            {
+                "name": "Others",
+                "paymentInstruments": [
+                    {
+                        "type": "TOTAL",
+                        "count": 52564,
+                        "amount": 30257752.66416522
+                    }
+                ]
+            }
+        ]
+    },
+    "responseTimestamp": 1669732245015
+}

@@ -1,0 +1,249 @@
+{
+    "success": true,
+    "code": "SUCCESS",
+    "data": {
+        "hoverDataList": [
+            {
+                "name": "ramgarh district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 4563913,
+                        "amount": 7357524201.067263
+                    }
+                ]
+            },
+            {
+                "name": "ranchi district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 28253540,
+                        "amount": 46123330242.43965
+                    }
+                ]
+            },
+            {
+                "name": "east singhbhum district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 9576498,
+                        "amount": 14369232011.490185
+                    }
+                ]
+            },
+            {
+                "name": "jamtara district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 509710,
+                        "amount": 1146919042.9367557
+                    }
+                ]
+            },
+            {
+                "name": "dumka district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 1217056,
+                        "amount": 2515250142.3814683
+                    }
+                ]
+            },
+            {
+                "name": "koderma district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 3110218,
+                        "amount": 6307772153.647697
+                    }
+                ]
+            },
+            {
+                "name": "hazaribagh district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 9038043,
+                        "amount": 16229125858.21476
+                    }
+                ]
+            },
+            {
+                "name": "simdega district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 404144,
+                        "amount": 1158227728.2014425
+                    }
+                ]
+            },
+            {
+                "name": "garhwa district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 3083712,
+                        "amount": 8114726164.818387
+                    }
+                ]
+            },
+            {
+                "name": "saraikela kharsawan district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 2898782,
+                        "amount": 4186515207.9306135
+                    }
+                ]
+            },
+            {
+                "name": "gumla district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 754224,
+                        "amount": 1879874426.2507083
+                    }
+                ]
+            },
+            {
+                "name": "chatra district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 2374388,
+                        "amount": 5533043421.845955
+                    }
+                ]
+            },
+            {
+                "name": "khunti district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 1216509,
+                        "amount": 2485225606.253108
+                    }
+                ]
+            },
+            {
+                "name": "dhanbad district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 10895145,
+                        "amount": 16014299345.818779
+                    }
+                ]
+            },
+            {
+                "name": "godda district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 1566829,
+                        "amount": 3345307617.917452
+                    }
+                ]
+            },
+            {
+                "name": "deoghar district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 2703664,
+                        "amount": 4605824380.020501
+                    }
+                ]
+            },
+            {
+                "name": "palamu district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 5805932,
+                        "amount": 13079772637.081738
+                    }
+                ]
+            },
+            {
+                "name": "latehar district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 1472028,
+                        "amount": 3766466584.8529816
+                    }
+                ]
+            },
+            {
+                "name": "west singhbhum district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 1552052,
+                        "amount": 2898889391.9400935
+                    }
+                ]
+            },
+            {
+                "name": "pakur district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 707821,
+                        "amount": 1905982392.0394137
+                    }
+                ]
+            },
+            {
+                "name": "lohardaga district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 689219,
+                        "amount": 1639015955.027969
+                    }
+                ]
+            },
+            {
+                "name": "sahebganj district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 1485645,
+                        "amount": 3691126213.517649
+                    }
+                ]
+            },
+            {
+                "name": "giridih district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 7126103,
+                        "amount": 13042929318.085455
+                    }
+                ]
+            },
+            {
+                "name": "bokaro district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 9906035,
+                        "amount": 13303827043.387667
+                    }
+                ]
+            }
+        ]
+    },
+    "responseTimestamp": 1651127598701
+}

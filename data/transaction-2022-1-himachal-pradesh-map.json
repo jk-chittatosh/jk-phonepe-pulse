@@ -1,0 +1,129 @@
+{
+    "success": true,
+    "code": "SUCCESS",
+    "data": {
+        "hoverDataList": [
+            {
+                "name": "solan district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 2993489,
+                        "amount": 3959375876.029764
+                    }
+                ]
+            },
+            {
+                "name": "sirmaur district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 962227,
+                        "amount": 1517999108.5303912
+                    }
+                ]
+            },
+            {
+                "name": "shimla district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 4441906,
+                        "amount": 7362840550.6056385
+                    }
+                ]
+            },
+            {
+                "name": "bilaspur district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 472169,
+                        "amount": 885425010.4453132
+                    }
+                ]
+            },
+            {
+                "name": "hamirpur district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 751389,
+                        "amount": 1264679768.7344947
+                    }
+                ]
+            },
+            {
+                "name": "una district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 1164923,
+                        "amount": 2030776988.6375241
+                    }
+                ]
+            },
+            {
+                "name": "kangra district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 2261593,
+                        "amount": 3907092916.0266376
+                    }
+                ]
+            },
+            {
+                "name": "kullu district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 1100232,
+                        "amount": 2108742823.1394382
+                    }
+                ]
+            },
+            {
+                "name": "mandi district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 1201568,
+                        "amount": 2151083001.502331
+                    }
+                ]
+            },
+            {
+                "name": "lahul and spiti district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 46144,
+                        "amount": 90886775.89370959
+                    }
+                ]
+            },
+            {
+                "name": "chamba district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 544135,
+                        "amount": 943937757.078062
+                    }
+                ]
+            },
+            {
+                "name": "kinnaur district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 148405,
+                        "amount": 295606863.3095263
+                    }
+                ]
+            }
+        ]
+    },
+    "responseTimestamp": 1651127613106
+}

@@ -1,0 +1,172 @@
+{
+    "success": true,
+    "code": "SUCCESS",
+    "data": {
+        "states": null,
+        "districts": [
+            {
+                "entityName": "hyderabad",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 372711414,
+                    "amount": 661512502141.0775
+                }
+            },
+            {
+                "entityName": "rangareddy",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 127675017,
+                    "amount": 216609881380.40106
+                }
+            },
+            {
+                "entityName": "medchal malkajgiri",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 110893187,
+                    "amount": 185168270983.38605
+                }
+            },
+            {
+                "entityName": "warangal urban",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 27504554,
+                    "amount": 56954288260.23642
+                }
+            },
+            {
+                "entityName": "sangareddy",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 27250369,
+                    "amount": 50754041229.75235
+                }
+            },
+            {
+                "entityName": "nalgonda",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 17014104,
+                    "amount": 39284842780.64408
+                }
+            },
+            {
+                "entityName": "khammam",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 15266245,
+                    "amount": 35894472741.54594
+                }
+            },
+            {
+                "entityName": "karimnagar",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 14698433,
+                    "amount": 32332888869.973804
+                }
+            },
+            {
+                "entityName": "nizamabad",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 13749642,
+                    "amount": 33996713436.015533
+                }
+            },
+            {
+                "entityName": "siddipet",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 11464769,
+                    "amount": 25404779557.018036
+                }
+            }
+        ],
+        "pincodes": [
+            {
+                "entityName": "500001",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 248675599,
+                    "amount": 460948755722.1826
+                }
+            },
+            {
+                "entityName": "500072",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 20739218,
+                    "amount": 32326218070.30701
+                }
+            },
+            {
+                "entityName": "500018",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 12828306,
+                    "amount": 20721253232.749943
+                }
+            },
+            {
+                "entityName": "500081",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 9614248,
+                    "amount": 11962556111.21791
+                }
+            },
+            {
+                "entityName": "500039",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 8602268,
+                    "amount": 14279519227.676981
+                }
+            },
+            {
+                "entityName": "500055",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 8477965,
+                    "amount": 14589584095.827675
+                }
+            },
+            {
+                "entityName": "500008",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 8162246,
+                    "amount": 12680603631.351318
+                }
+            },
+            {
+                "entityName": "500016",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 8148392,
+                    "amount": 11175639127.495972
+                }
+            },
+            {
+                "entityName": "505001",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 7982445,
+                    "amount": 17776895373.23894
+                }
+            },
+            {
+                "entityName": "500032",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 7613988,
+                    "amount": 9361896540.618912
+                }
+            }
+        ]
+    },
+    "responseTimestamp": 1651127607719
+}

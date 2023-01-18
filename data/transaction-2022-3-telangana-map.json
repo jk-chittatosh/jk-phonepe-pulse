@@ -1,0 +1,339 @@
+{
+    "success": true,
+    "code": "SUCCESS",
+    "data": {
+        "hoverDataList": [
+            {
+                "name": "narayanpet district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 3149412,
+                        "amount": 7372511545.846636
+                    }
+                ]
+            },
+            {
+                "name": "nalgonda district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 19442094,
+                        "amount": 40798032880.70633
+                    }
+                ]
+            },
+            {
+                "name": "jangaon district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 6580615,
+                        "amount": 13279380724.599072
+                    }
+                ]
+            },
+            {
+                "name": "bhadradri kothagudem district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 12264577,
+                        "amount": 25289893377.7632
+                    }
+                ]
+            },
+            {
+                "name": "warangal rural district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 6206207,
+                        "amount": 12580724724.480564
+                    }
+                ]
+            },
+            {
+                "name": "kumuram bheem asifabad district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 3217193,
+                        "amount": 5642724850.521915
+                    }
+                ]
+            },
+            {
+                "name": "nizamabad district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 15374558,
+                        "amount": 35480941123.20821
+                    }
+                ]
+            },
+            {
+                "name": "adilabad district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 4697252,
+                        "amount": 8917128425.600996
+                    }
+                ]
+            },
+            {
+                "name": "rajanna sircilla district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 5407265,
+                        "amount": 11900795823.20659
+                    }
+                ]
+            },
+            {
+                "name": "nagarkurnool district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 8782718,
+                        "amount": 18637778860.078545
+                    }
+                ]
+            },
+            {
+                "name": "peddapalle district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 10936393,
+                        "amount": 20799401370.88663
+                    }
+                ]
+            },
+            {
+                "name": "nirmal district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 5045789,
+                        "amount": 12158789732.897774
+                    }
+                ]
+            },
+            {
+                "name": "mahabubabad district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 6113296,
+                        "amount": 11797675474.514078
+                    }
+                ]
+            },
+            {
+                "name": "sangareddy district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 33187414,
+                        "amount": 57832647223.37014
+                    }
+                ]
+            },
+            {
+                "name": "wanaparthy district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 4675529,
+                        "amount": 10130094511.37881
+                    }
+                ]
+            },
+            {
+                "name": "vikarabad district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 7799069,
+                        "amount": 14232056919.530758
+                    }
+                ]
+            },
+            {
+                "name": "jagtial district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 8168113,
+                        "amount": 19843349567.164665
+                    }
+                ]
+            },
+            {
+                "name": "yadadri bhuvanagiri district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 10857894,
+                        "amount": 22042571396.236126
+                    }
+                ]
+            },
+            {
+                "name": "medak district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 6256711,
+                        "amount": 12214538646.775864
+                    }
+                ]
+            },
+            {
+                "name": "mahbubnagar district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 10611492,
+                        "amount": 20954874892.610764
+                    }
+                ]
+            },
+            {
+                "name": "jaya shankar bhalupally district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 4204613,
+                        "amount": 8896891604.929647
+                    }
+                ]
+            },
+            {
+                "name": "warangal urban district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 27244856,
+                        "amount": 55794322100.977
+                    }
+                ]
+            },
+            {
+                "name": "rangareddy district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 169029273,
+                        "amount": 272598081405.12262
+                    }
+                ]
+            },
+            {
+                "name": "hyderabad district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 1018658174,
+                        "amount": 1586047443981.7905
+                    }
+                ]
+            },
+            {
+                "name": "suryapet district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 11413191,
+                        "amount": 23876546283.024384
+                    }
+                ]
+            },
+            {
+                "name": "jogulamba gadwal district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 4706947,
+                        "amount": 11052081759.676401
+                    }
+                ]
+            },
+            {
+                "name": "kamareddy district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 7186922,
+                        "amount": 14964327071.013714
+                    }
+                ]
+            },
+            {
+                "name": "mulugu district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 2441037,
+                        "amount": 5260858335.473125
+                    }
+                ]
+            },
+            {
+                "name": "medchal malkajgiri district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 136384039,
+                        "amount": 223442008167.9499
+                    }
+                ]
+            },
+            {
+                "name": "karimnagar district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 17095584,
+                        "amount": 36478353448.996735
+                    }
+                ]
+            },
+            {
+                "name": "mancherial district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 11116187,
+                        "amount": 21649183001.676773
+                    }
+                ]
+            },
+            {
+                "name": "siddipet district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 12900290,
+                        "amount": 27570105119.137547
+                    }
+                ]
+            },
+            {
+                "name": "khammam district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 17010697,
+                        "amount": 36789751400.92127
+                    }
+                ]
+            }
+        ]
+    },
+    "responseTimestamp": 1669732370416
+}

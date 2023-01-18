@@ -1,0 +1,172 @@
+{
+    "success": true,
+    "code": "SUCCESS",
+    "data": {
+        "states": null,
+        "districts": [
+            {
+                "entityName": "ludhiana",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 31697344,
+                    "amount": 52659794645.55728
+                }
+            },
+            {
+                "entityName": "sas nagar",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 13524410,
+                    "amount": 18050299571.02451
+                }
+            },
+            {
+                "entityName": "amritsar",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 5353882,
+                    "amount": 11781862029.205471
+                }
+            },
+            {
+                "entityName": "jalandhar",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 4730075,
+                    "amount": 9243374092.577248
+                }
+            },
+            {
+                "entityName": "patiala",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 4007021,
+                    "amount": 8011939442.457413
+                }
+            },
+            {
+                "entityName": "kapurthala",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 2952123,
+                    "amount": 3702626207.3035707
+                }
+            },
+            {
+                "entityName": "bathinda",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 2929344,
+                    "amount": 5852032739.035611
+                }
+            },
+            {
+                "entityName": "fazilka",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 2618054,
+                    "amount": 5147923013.794576
+                }
+            },
+            {
+                "entityName": "pathankot",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 1792893,
+                    "amount": 3662889899.847559
+                }
+            },
+            {
+                "entityName": "hoshiarpur",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 1789334,
+                    "amount": 3625177520.5732203
+                }
+            }
+        ],
+        "pincodes": [
+            {
+                "entityName": "141007",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 17194042,
+                    "amount": 26076678336.602097
+                }
+            },
+            {
+                "entityName": "141008",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 3792453,
+                    "amount": 7270600019.612049
+                }
+            },
+            {
+                "entityName": "143001",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 3641708,
+                    "amount": 7946208922.080432
+                }
+            },
+            {
+                "entityName": "141003",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 3522146,
+                    "amount": 5956975288.715145
+                }
+            },
+            {
+                "entityName": "160066",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 3341430,
+                    "amount": 5058698409.990889
+                }
+            },
+            {
+                "entityName": "140301",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 1917528,
+                    "amount": 2247401003.103948
+                }
+            },
+            {
+                "entityName": "144001",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 1584180,
+                    "amount": 3130303320.5152707
+                }
+            },
+            {
+                "entityName": "144411",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 1509657,
+                    "amount": 1075946624.3366413
+                }
+            },
+            {
+                "entityName": "140603",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 1501915,
+                    "amount": 2472962564.0728073
+                }
+            },
+            {
+                "entityName": "140308",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 1185509,
+                    "amount": 1312944472.199987
+                }
+            }
+        ]
+    },
+    "responseTimestamp": 1669732359790
+}

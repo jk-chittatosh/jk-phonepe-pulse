@@ -1,0 +1,119 @@
+{
+    "success": true,
+    "code": "SUCCESS",
+    "data": {
+        "hoverDataList": [
+            {
+                "name": "south district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 13519253,
+                        "amount": 17982839888.57036
+                    }
+                ]
+            },
+            {
+                "name": "central district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 128309915,
+                        "amount": 198072597274.588
+                    }
+                ]
+            },
+            {
+                "name": "new delhi district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 71006225,
+                        "amount": 110657872546.40234
+                    }
+                ]
+            },
+            {
+                "name": "west district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 22748647,
+                        "amount": 43283043830.88957
+                    }
+                ]
+            },
+            {
+                "name": "south west district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 13659485,
+                        "amount": 22636957994.996166
+                    }
+                ]
+            },
+            {
+                "name": "south east delhi district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 23146633,
+                        "amount": 34276252396.92598
+                    }
+                ]
+            },
+            {
+                "name": "shahdara district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 8243067,
+                        "amount": 19161154403.811974
+                    }
+                ]
+            },
+            {
+                "name": "north east district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 8357217,
+                        "amount": 17814230282.345295
+                    }
+                ]
+            },
+            {
+                "name": "east district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 13032988,
+                        "amount": 19771730745.94047
+                    }
+                ]
+            },
+            {
+                "name": "north west district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 14899833,
+                        "amount": 28208907241.065834
+                    }
+                ]
+            },
+            {
+                "name": "north district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 14076598,
+                        "amount": 25099334230.75274
+                    }
+                ]
+            }
+        ]
+    },
+    "responseTimestamp": 1651127628667
+}

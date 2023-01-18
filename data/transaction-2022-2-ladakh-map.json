@@ -1,0 +1,29 @@
+{
+    "success": true,
+    "code": "SUCCESS",
+    "data": {
+        "hoverDataList": [
+            {
+                "name": "kargil district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 229338,
+                        "amount": 644363529.2719021
+                    }
+                ]
+            },
+            {
+                "name": "leh ladakh district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 888735,
+                        "amount": 2898954648.724365
+                    }
+                ]
+            }
+        ]
+    },
+    "responseTimestamp": 1669732227646
+}

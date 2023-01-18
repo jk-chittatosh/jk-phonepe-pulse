@@ -1,0 +1,172 @@
+{
+    "success": true,
+    "code": "SUCCESS",
+    "data": {
+        "states": null,
+        "districts": [
+            {
+                "entityName": "ranchi",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 28253540,
+                    "amount": 46123330242.43965
+                }
+            },
+            {
+                "entityName": "dhanbad",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 10895145,
+                    "amount": 16014299345.818779
+                }
+            },
+            {
+                "entityName": "bokaro",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 9906035,
+                    "amount": 13303827043.387669
+                }
+            },
+            {
+                "entityName": "east singhbhum",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 9576498,
+                    "amount": 14369232011.490187
+                }
+            },
+            {
+                "entityName": "hazaribagh",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 9038043,
+                    "amount": 16229125858.21476
+                }
+            },
+            {
+                "entityName": "giridih",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 7126103,
+                    "amount": 13042929318.085455
+                }
+            },
+            {
+                "entityName": "palamu",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 5805932,
+                    "amount": 13079772637.081738
+                }
+            },
+            {
+                "entityName": "ramgarh",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 4563913,
+                    "amount": 7357524201.067262
+                }
+            },
+            {
+                "entityName": "koderma",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 3110218,
+                    "amount": 6307772153.647697
+                }
+            },
+            {
+                "entityName": "garhwa",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 3083712,
+                    "amount": 8114726164.818388
+                }
+            }
+        ],
+        "pincodes": [
+            {
+                "entityName": "834002",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 11376332,
+                    "amount": 20223157755.97808
+                }
+            },
+            {
+                "entityName": "834001",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 5377205,
+                    "amount": 7144402174.588897
+                }
+            },
+            {
+                "entityName": "826001",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 2101103,
+                    "amount": 3347939707.548132
+                }
+            },
+            {
+                "entityName": "831001",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 2050782,
+                    "amount": 3080956142.7310486
+                }
+            },
+            {
+                "entityName": "827013",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 2044863,
+                    "amount": 2750289903.551509
+                }
+            },
+            {
+                "entityName": "815301",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 1973635,
+                    "amount": 3554679936.919263
+                }
+            },
+            {
+                "entityName": "825303",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 1790283,
+                    "amount": 2080200779.250644
+                }
+            },
+            {
+                "entityName": "825301",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 1515302,
+                    "amount": 2745857514.686514
+                }
+            },
+            {
+                "entityName": "825409",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 1252327,
+                    "amount": 2384141150.0169344
+                }
+            },
+            {
+                "entityName": "834008",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 1132904,
+                    "amount": 1530482069.3943493
+                }
+            }
+        ]
+    },
+    "responseTimestamp": 1651127598814
+}

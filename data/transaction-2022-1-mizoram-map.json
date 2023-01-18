@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "code": "SUCCESS",
+    "data": {
+        "hoverDataList": [
+            {
+                "name": "serchhip district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 25542,
+                        "amount": 73577504.13530782
+                    }
+                ]
+            },
+            {
+                "name": "aizawl district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 341192,
+                        "amount": 1081700361.9959884
+                    }
+                ]
+            },
+            {
+                "name": "lunglei district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 70118,
+                        "amount": 225762310.6230601
+                    }
+                ]
+            },
+            {
+                "name": "mamit district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 31141,
+                        "amount": 85615813.92389987
+                    }
+                ]
+            },
+            {
+                "name": "lawngtlai district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 52546,
+                        "amount": 177710904.92789966
+                    }
+                ]
+            },
+            {
+                "name": "kolasib district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 41730,
+                        "amount": 131565353.72167373
+                    }
+                ]
+            },
+            {
+                "name": "champhai district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 28284,
+                        "amount": 104778862.41112824
+                    }
+                ]
+            },
+            {
+                "name": "saiha district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 14364,
+                        "amount": 64447851.87228675
+                    }
+                ]
+            }
+        ]
+    },
+    "responseTimestamp": 1651127621076
+}

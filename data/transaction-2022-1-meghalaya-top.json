@@ -1,0 +1,172 @@
+{
+    "success": true,
+    "code": "SUCCESS",
+    "data": {
+        "states": null,
+        "districts": [
+            {
+                "entityName": "east khasi hills",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 653082,
+                    "amount": 1762837936.3129022
+                }
+            },
+            {
+                "entityName": "west garo hills",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 325791,
+                    "amount": 991586557.2279948
+                }
+            },
+            {
+                "entityName": "ribhoi",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 257923,
+                    "amount": 624403404.8028624
+                }
+            },
+            {
+                "entityName": "east jaintia hills",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 169484,
+                    "amount": 496156278.4387266
+                }
+            },
+            {
+                "entityName": "west jaintia hills",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 49196,
+                    "amount": 126597671.42735201
+                }
+            },
+            {
+                "entityName": "south garo hills",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 43827,
+                    "amount": 166412749.63292432
+                }
+            },
+            {
+                "entityName": "east garo hills",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 42878,
+                    "amount": 97659034.30770612
+                }
+            },
+            {
+                "entityName": "north garo hills",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 42030,
+                    "amount": 87894203.47088854
+                }
+            },
+            {
+                "entityName": "south west garo hills",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 39644,
+                    "amount": 98249285.49958463
+                }
+            },
+            {
+                "entityName": "west khasi hills",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 36687,
+                    "amount": 148090837.06952718
+                }
+            }
+        ],
+        "pincodes": [
+            {
+                "entityName": "793001",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 276853,
+                    "amount": 725122188.6667871
+                }
+            },
+            {
+                "entityName": "793101",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 146497,
+                    "amount": 358732686.5953486
+                }
+            },
+            {
+                "entityName": "793210",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 104592,
+                    "amount": 258096527.61697102
+                }
+            },
+            {
+                "entityName": "794105",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 100267,
+                    "amount": 360153597.64748234
+                }
+            },
+            {
+                "entityName": "794104",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 97389,
+                    "amount": 281145669.1917542
+                }
+            },
+            {
+                "entityName": "793002",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 59028,
+                    "amount": 183373999.4729157
+                }
+            },
+            {
+                "entityName": "793103",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 45968,
+                    "amount": 104363058.89164466
+                }
+            },
+            {
+                "entityName": "794001",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 45495,
+                    "amount": 125397296.50787352
+                }
+            },
+            {
+                "entityName": "794101",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 43770,
+                    "amount": 115738929.50108132
+                }
+            },
+            {
+                "entityName": "793200",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 43235,
+                    "amount": 155876215.99820644
+                }
+            }
+        ]
+    },
+    "responseTimestamp": 1651127589511
+}

@@ -1,0 +1,172 @@
+{
+    "success": true,
+    "code": "SUCCESS",
+    "data": {
+        "states": null,
+        "districts": [
+            {
+                "entityName": "dimapur",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 1094753,
+                    "amount": 3023858206.1614122
+                }
+            },
+            {
+                "entityName": "kohima",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 390575,
+                    "amount": 1084969826.9670703
+                }
+            },
+            {
+                "entityName": "mokokchung",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 81244,
+                    "amount": 249065125.4973578
+                }
+            },
+            {
+                "entityName": "wokha",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 79275,
+                    "amount": 192965563.6529306
+                }
+            },
+            {
+                "entityName": "mon",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 68148,
+                    "amount": 217924271.27222452
+                }
+            },
+            {
+                "entityName": "phek",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 45816,
+                    "amount": 151822055.76958296
+                }
+            },
+            {
+                "entityName": "tuensang",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 44657,
+                    "amount": 158205190.5951551
+                }
+            },
+            {
+                "entityName": "zunheboto",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 30504,
+                    "amount": 94302709.04675612
+                }
+            },
+            {
+                "entityName": "peren",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 24443,
+                    "amount": 79886712.62073797
+                }
+            },
+            {
+                "entityName": "kiphire",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 19352,
+                    "amount": 63372092.96371811
+                }
+            }
+        ],
+        "pincodes": [
+            {
+                "entityName": "797112",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 628896,
+                    "amount": 1642752208.870655
+                }
+            },
+            {
+                "entityName": "797001",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 201957,
+                    "amount": 520587801.8986424
+                }
+            },
+            {
+                "entityName": "797103",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 109180,
+                    "amount": 298355113.8871528
+                }
+            },
+            {
+                "entityName": "797115",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 99867,
+                    "amount": 319835298.9079366
+                }
+            },
+            {
+                "entityName": "797113",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 76308,
+                    "amount": 210516875.2056924
+                }
+            },
+            {
+                "entityName": "797111",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 67060,
+                    "amount": 167493433.59991452
+                }
+            },
+            {
+                "entityName": "797120",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 64228,
+                    "amount": 215206232.6197949
+                }
+            },
+            {
+                "entityName": "797117",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 61091,
+                    "amount": 196047227.96932304
+                }
+            },
+            {
+                "entityName": "798601",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 50676,
+                    "amount": 161849571.0213467
+                }
+            },
+            {
+                "entityName": "797116",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 48544,
+                    "amount": 165004718.54081702
+                }
+            }
+        ]
+    },
+    "responseTimestamp": 1669732378788
+}

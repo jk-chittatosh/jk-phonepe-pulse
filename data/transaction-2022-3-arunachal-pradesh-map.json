@@ -1,0 +1,259 @@
+{
+    "success": true,
+    "code": "SUCCESS",
+    "data": {
+        "hoverDataList": [
+            {
+                "name": "lower dibang valley district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 112848,
+                        "amount": 273001216.6677967
+                    }
+                ]
+            },
+            {
+                "name": "lower subansiri district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 109261,
+                        "amount": 285712248.1429684
+                    }
+                ]
+            },
+            {
+                "name": "longding district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 57360,
+                        "amount": 154461013.00605297
+                    }
+                ]
+            },
+            {
+                "name": "west siang district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 136332,
+                        "amount": 395192937.9954808
+                    }
+                ]
+            },
+            {
+                "name": "kamle district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 16300,
+                        "amount": 40508790.17987645
+                    }
+                ]
+            },
+            {
+                "name": "upper siang district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 51285,
+                        "amount": 160298876.32394755
+                    }
+                ]
+            },
+            {
+                "name": "tirap district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 79206,
+                        "amount": 216482194.52850336
+                    }
+                ]
+            },
+            {
+                "name": "papum pare district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 1651143,
+                        "amount": 3211809407.131925
+                    }
+                ]
+            },
+            {
+                "name": "kurung kumey district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 12677,
+                        "amount": 54808629.689540036
+                    }
+                ]
+            },
+            {
+                "name": "anjaw district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 32452,
+                        "amount": 104784905.2209255
+                    }
+                ]
+            },
+            {
+                "name": "siang district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 34204,
+                        "amount": 91702284.02541924
+                    }
+                ]
+            },
+            {
+                "name": "lower siang district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 38480,
+                        "amount": 85746020.38579762
+                    }
+                ]
+            },
+            {
+                "name": "kra daadi district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 15939,
+                        "amount": 59014513.91034414
+                    }
+                ]
+            },
+            {
+                "name": "changlang district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 216609,
+                        "amount": 492535245.0550784
+                    }
+                ]
+            },
+            {
+                "name": "pakke kessang district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 12764,
+                        "amount": 26095563.60834673
+                    }
+                ]
+            },
+            {
+                "name": "dibang valley district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 3266,
+                        "amount": 19490605.610856578
+                    }
+                ]
+            },
+            {
+                "name": "west kameng district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 371632,
+                        "amount": 945171308.1838298
+                    }
+                ]
+            },
+            {
+                "name": "shi yomi district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 4909,
+                        "amount": 31175974.40628878
+                    }
+                ]
+            },
+            {
+                "name": "east siang district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 286766,
+                        "amount": 594752976.4068052
+                    }
+                ]
+            },
+            {
+                "name": "upper subansiri district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 77637,
+                        "amount": 256409311.95083195
+                    }
+                ]
+            },
+            {
+                "name": "east kameng district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 52570,
+                        "amount": 166910810.4295592
+                    }
+                ]
+            },
+            {
+                "name": "lohit district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 236792,
+                        "amount": 461745616.9201143
+                    }
+                ]
+            },
+            {
+                "name": "lepa rada district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 38997,
+                        "amount": 105244758.5087227
+                    }
+                ]
+            },
+            {
+                "name": "tawang district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 138313,
+                        "amount": 514855579.7238326
+                    }
+                ]
+            },
+            {
+                "name": "namsai district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 151676,
+                        "amount": 277199997.0357646
+                    }
+                ]
+            }
+        ]
+    },
+    "responseTimestamp": 1669732386500
+}

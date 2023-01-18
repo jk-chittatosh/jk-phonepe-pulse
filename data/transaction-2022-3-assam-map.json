@@ -1,0 +1,339 @@
+{
+    "success": true,
+    "code": "SUCCESS",
+    "data": {
+        "hoverDataList": [
+            {
+                "name": "tinsukia district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 1596815,
+                        "amount": 3042250714.0585003
+                    }
+                ]
+            },
+            {
+                "name": "lakhimpur district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 1107100,
+                        "amount": 2067093940.620087
+                    }
+                ]
+            },
+            {
+                "name": "kamrup district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 2430234,
+                        "amount": 4614592326.476387
+                    }
+                ]
+            },
+            {
+                "name": "kokrajhar district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 1067899,
+                        "amount": 2284375602.7792797
+                    }
+                ]
+            },
+            {
+                "name": "karbi anglong district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 859889,
+                        "amount": 1828335931.7694077
+                    }
+                ]
+            },
+            {
+                "name": "sivasagar district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 747403,
+                        "amount": 1314001865.700468
+                    }
+                ]
+            },
+            {
+                "name": "dibrugarh district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 2307181,
+                        "amount": 3933628296.025187
+                    }
+                ]
+            },
+            {
+                "name": "south salmara mancachar district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 605276,
+                        "amount": 1484669445.1835508
+                    }
+                ]
+            },
+            {
+                "name": "nagaon district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 2968058,
+                        "amount": 6558107158.010572
+                    }
+                ]
+            },
+            {
+                "name": "dhubri district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 2223747,
+                        "amount": 4556385241.834756
+                    }
+                ]
+            },
+            {
+                "name": "golaghat district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 1053657,
+                        "amount": 2034519777.2871876
+                    }
+                ]
+            },
+            {
+                "name": "udalguri district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 863753,
+                        "amount": 1579156771.500186
+                    }
+                ]
+            },
+            {
+                "name": "majuli district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 134355,
+                        "amount": 225690807.14413714
+                    }
+                ]
+            },
+            {
+                "name": "sonitpur district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 3096898,
+                        "amount": 5410346627.41358
+                    }
+                ]
+            },
+            {
+                "name": "hojai district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 1043820,
+                        "amount": 2113483858.3325524
+                    }
+                ]
+            },
+            {
+                "name": "marigaon district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 1489205,
+                        "amount": 3238457317.646788
+                    }
+                ]
+            },
+            {
+                "name": "chirang district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 715691,
+                        "amount": 1537298774.9483962
+                    }
+                ]
+            },
+            {
+                "name": "cachar district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 2665315,
+                        "amount": 5192449137.351445
+                    }
+                ]
+            },
+            {
+                "name": "nalbari district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 794013,
+                        "amount": 1648877908.7165303
+                    }
+                ]
+            },
+            {
+                "name": "west karbi anglong district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 109757,
+                        "amount": 205472736.923297
+                    }
+                ]
+            },
+            {
+                "name": "dhemaji district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 772797,
+                        "amount": 1515654182.855371
+                    }
+                ]
+            },
+            {
+                "name": "karimganj district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 1334451,
+                        "amount": 3178134072.4352174
+                    }
+                ]
+            },
+            {
+                "name": "bongaigaon district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 1668882,
+                        "amount": 3479985149.6288843
+                    }
+                ]
+            },
+            {
+                "name": "dima hasao district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 288848,
+                        "amount": 678521294.5272696
+                    }
+                ]
+            },
+            {
+                "name": "baksa district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 994859,
+                        "amount": 2149845145.9618897
+                    }
+                ]
+            },
+            {
+                "name": "charaideo district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 653536,
+                        "amount": 1267458929.2095046
+                    }
+                ]
+            },
+            {
+                "name": "darrang district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 1805090,
+                        "amount": 3233214492.5730667
+                    }
+                ]
+            },
+            {
+                "name": "kamrup metropolitan district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 39606017,
+                        "amount": 69410860235.2296
+                    }
+                ]
+            },
+            {
+                "name": "hailakandi district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 1560929,
+                        "amount": 2991549159.6529717
+                    }
+                ]
+            },
+            {
+                "name": "barpeta district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 4561028,
+                        "amount": 9149960686.489628
+                    }
+                ]
+            },
+            {
+                "name": "goalpara district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 2054687,
+                        "amount": 4590076568.303604
+                    }
+                ]
+            },
+            {
+                "name": "biswanath district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 668091,
+                        "amount": 1279949511.7036183
+                    }
+                ]
+            },
+            {
+                "name": "jorhat district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 2264530,
+                        "amount": 3694675386.605816
+                    }
+                ]
+            }
+        ]
+    },
+    "responseTimestamp": 1669732360306
+}

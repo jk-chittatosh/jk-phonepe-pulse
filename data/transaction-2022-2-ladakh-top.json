@@ -1,0 +1,108 @@
+{
+    "success": true,
+    "code": "SUCCESS",
+    "data": {
+        "states": null,
+        "districts": [
+            {
+                "entityName": "leh ladakh",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 888735,
+                    "amount": 2898954648.724365
+                }
+            },
+            {
+                "entityName": "kargil",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 229338,
+                    "amount": 644363529.2719021
+                }
+            }
+        ],
+        "pincodes": [
+            {
+                "entityName": "194101",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 295744,
+                    "amount": 953619671.9154239
+                }
+            },
+            {
+                "entityName": "194104",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 235834,
+                    "amount": 687142377.4082154
+                }
+            },
+            {
+                "entityName": "194201",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 122174,
+                    "amount": 422676434.18049604
+                }
+            },
+            {
+                "entityName": "194107",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 78094,
+                    "amount": 237866441.3871275
+                }
+            },
+            {
+                "entityName": "194401",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 77048,
+                    "amount": 302237005.0231304
+                }
+            },
+            {
+                "entityName": "194103",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 64923,
+                    "amount": 179793577.05094215
+                }
+            },
+            {
+                "entityName": "194102",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 49473,
+                    "amount": 160062924.85814723
+                }
+            },
+            {
+                "entityName": "194105",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 39622,
+                    "amount": 106171675.08014886
+                }
+            },
+            {
+                "entityName": "194703",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 35267,
+                    "amount": 99427375.07701047
+                }
+            },
+            {
+                "entityName": "194404",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 31848,
+                    "amount": 150765059.0770013
+                }
+            }
+        ]
+    },
+    "responseTimestamp": 1669732227781
+}

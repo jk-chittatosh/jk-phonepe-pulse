@@ -1,0 +1,172 @@
+{
+    "success": true,
+    "code": "SUCCESS",
+    "data": {
+        "states": null,
+        "districts": [
+            {
+                "entityName": "kolkata",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 94525113,
+                    "amount": 185459902953.69675
+                }
+            },
+            {
+                "entityName": "north twenty four parganas",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 39542212,
+                    "amount": 71420194039.6632
+                }
+            },
+            {
+                "entityName": "howrah",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 26848389,
+                    "amount": 48444965297.30553
+                }
+            },
+            {
+                "entityName": "murshidabad",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 18656132,
+                    "amount": 48239202742.472496
+                }
+            },
+            {
+                "entityName": "purba medinipur",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 13947269,
+                    "amount": 33925841807.925117
+                }
+            },
+            {
+                "entityName": "south twenty four parganas",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 13499039,
+                    "amount": 31391822584.21167
+                }
+            },
+            {
+                "entityName": "hooghly",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 12160484,
+                    "amount": 24931277877.504135
+                }
+            },
+            {
+                "entityName": "paschim bardhaman",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 12056490,
+                    "amount": 21013580033.32985
+                }
+            },
+            {
+                "entityName": "nadia",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 11642703,
+                    "amount": 26531299344.80262
+                }
+            },
+            {
+                "entityName": "paschim medinipur",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 10862436,
+                    "amount": 23376063738.33557
+                }
+            }
+        ],
+        "pincodes": [
+            {
+                "entityName": "700009",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 67157736,
+                    "amount": 130052677445.67651
+                }
+            },
+            {
+                "entityName": "711102",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 16676480,
+                    "amount": 25949294735.37655
+                }
+            },
+            {
+                "entityName": "734006",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 4419227,
+                    "amount": 9688565820.519903
+                }
+            },
+            {
+                "entityName": "742133",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 3644406,
+                    "amount": 7901840313.174833
+                }
+            },
+            {
+                "entityName": "700156",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 2701567,
+                    "amount": 2885265303.3428917
+                }
+            },
+            {
+                "entityName": "742149",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 2311229,
+                    "amount": 6284886223.830292
+                }
+            },
+            {
+                "entityName": "700091",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 2018277,
+                    "amount": 2013232488.9538462
+                }
+            },
+            {
+                "entityName": "700135",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 1992974,
+                    "amount": 3111680063.663621
+                }
+            },
+            {
+                "entityName": "711101",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 1491729,
+                    "amount": 3752715059.8449473
+                }
+            },
+            {
+                "entityName": "721301",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 1330885,
+                    "amount": 2655521582.9491043
+                }
+            }
+        ]
+    },
+    "responseTimestamp": 1669732246040
+}

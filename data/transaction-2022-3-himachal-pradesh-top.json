@@ -1,0 +1,172 @@
+{
+    "success": true,
+    "code": "SUCCESS",
+    "data": {
+        "states": null,
+        "districts": [
+            {
+                "entityName": "shimla",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 8892834,
+                    "amount": 13349267759.063
+                }
+            },
+            {
+                "entityName": "solan",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 4064523,
+                    "amount": 4837968887.089856
+                }
+            },
+            {
+                "entityName": "kangra",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 3342842,
+                    "amount": 5121570350.61087
+                }
+            },
+            {
+                "entityName": "mandi",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 1666670,
+                    "amount": 2648674300.7818365
+                }
+            },
+            {
+                "entityName": "chamba",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 1270412,
+                    "amount": 1872267055.918766
+                }
+            },
+            {
+                "entityName": "sirmaur",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 1266132,
+                    "amount": 1769419418.4413247
+                }
+            },
+            {
+                "entityName": "una",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 1233226,
+                    "amount": 1928978517.8009784
+                }
+            },
+            {
+                "entityName": "kullu",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 1202861,
+                    "amount": 2235782785.3480353
+                }
+            },
+            {
+                "entityName": "bilaspur",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 936750,
+                    "amount": 1447420350.6150799
+                }
+            },
+            {
+                "entityName": "hamirpur",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 934529,
+                    "amount": 1398047775.1680303
+                }
+            }
+        ],
+        "pincodes": [
+            {
+                "entityName": "171003",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 7107267,
+                    "amount": 9831616933.274183
+                }
+            },
+            {
+                "entityName": "173205",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 1854890,
+                    "amount": 1640996290.2671494
+                }
+            },
+            {
+                "entityName": "174101",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 729161,
+                    "amount": 946965866.4571412
+                }
+            },
+            {
+                "entityName": "173025",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 541490,
+                    "amount": 739739737.0435636
+                }
+            },
+            {
+                "entityName": "175001",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 461113,
+                    "amount": 671601651.7150689
+                }
+            },
+            {
+                "entityName": "173212",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 444046,
+                    "amount": 652066582.5336627
+                }
+            },
+            {
+                "entityName": "174005",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 395220,
+                    "amount": 510809104.58266944
+                }
+            },
+            {
+                "entityName": "176323",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 391625,
+                    "amount": 502430103.270708
+                }
+            },
+            {
+                "entityName": "175131",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 385700,
+                    "amount": 709339306.5647655
+                }
+            },
+            {
+                "entityName": "176038",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 385068,
+                    "amount": 539724042.6283058
+                }
+            }
+        ]
+    },
+    "responseTimestamp": 1669732376121
+}

@@ -1,0 +1,172 @@
+{
+    "success": true,
+    "code": "SUCCESS",
+    "data": {
+        "states": null,
+        "districts": [
+            {
+                "entityName": "lucknow",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 102123625,
+                    "amount": 164056107244.2309
+                }
+            },
+            {
+                "entityName": "gautam buddha nagar",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 74160647,
+                    "amount": 87828388050.506
+                }
+            },
+            {
+                "entityName": "ghaziabad",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 37739024,
+                    "amount": 59183436240.67706
+                }
+            },
+            {
+                "entityName": "meerut",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 22419976,
+                    "amount": 38399767082.406334
+                }
+            },
+            {
+                "entityName": "prayagraj",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 20833684,
+                    "amount": 34267771491.719467
+                }
+            },
+            {
+                "entityName": "kanpur nagar",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 18142630,
+                    "amount": 32679093848.494316
+                }
+            },
+            {
+                "entityName": "agra",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 17306092,
+                    "amount": 31826611654.86806
+                }
+            },
+            {
+                "entityName": "varanasi",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 16290241,
+                    "amount": 29105585945.91128
+                }
+            },
+            {
+                "entityName": "gorakhpur",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 14066992,
+                    "amount": 28691435244.931892
+                }
+            },
+            {
+                "entityName": "aligarh",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 11491914,
+                    "amount": 20498359414.78222
+                }
+            }
+        ],
+        "pincodes": [
+            {
+                "entityName": "226004",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 69083808,
+                    "amount": 115329604877.16333
+                }
+            },
+            {
+                "entityName": "201301",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 23997095,
+                    "amount": 29375497406.520893
+                }
+            },
+            {
+                "entityName": "250001",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 13183697,
+                    "amount": 21216819553.774345
+                }
+            },
+            {
+                "entityName": "201307",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 7569347,
+                    "amount": 8218510660.631851
+                }
+            },
+            {
+                "entityName": "201318",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 7160121,
+                    "amount": 9477752466.092012
+                }
+            },
+            {
+                "entityName": "201009",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 6417120,
+                    "amount": 9058665494.363823
+                }
+            },
+            {
+                "entityName": "201308",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 5838704,
+                    "amount": 6577636191.091028
+                }
+            },
+            {
+                "entityName": "201102",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 5568850,
+                    "amount": 9696475683.571627
+                }
+            },
+            {
+                "entityName": "201304",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 5353515,
+                    "amount": 6025857678.4076605
+                }
+            },
+            {
+                "entityName": "201306",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 5039932,
+                    "amount": 5121347604.797944
+                }
+            }
+        ]
+    },
+    "responseTimestamp": 1669732203902
+}

@@ -1,0 +1,172 @@
+{
+    "success": true,
+    "code": "SUCCESS",
+    "data": {
+        "states": null,
+        "districts": [
+            {
+                "entityName": "kamrup metropolitan",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 28908435,
+                    "amount": 60093746992.89225
+                }
+            },
+            {
+                "entityName": "barpeta",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 2846523,
+                    "amount": 7413611760.549713
+                }
+            },
+            {
+                "entityName": "nagaon",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 2049272,
+                    "amount": 5405490459.948577
+                }
+            },
+            {
+                "entityName": "cachar",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 1869862,
+                    "amount": 4225305321.2857337
+                }
+            },
+            {
+                "entityName": "dibrugarh",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 1830668,
+                    "amount": 3721424814.9586687
+                }
+            },
+            {
+                "entityName": "sonitpur",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 1805856,
+                    "amount": 3651941482.2987123
+                }
+            },
+            {
+                "entityName": "kamrup",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 1708845,
+                    "amount": 3838019247.423967
+                }
+            },
+            {
+                "entityName": "goalpara",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 1299073,
+                    "amount": 3720380319.732236
+                }
+            },
+            {
+                "entityName": "dhubri",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 1247298,
+                    "amount": 3380205337.1301537
+                }
+            },
+            {
+                "entityName": "darrang",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 1205741,
+                    "amount": 2732173374.6894684
+                }
+            }
+        ],
+        "pincodes": [
+            {
+                "entityName": "781009",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 21143287,
+                    "amount": 46189827357.81514
+                }
+            },
+            {
+                "entityName": "786001",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 737669,
+                    "amount": 1585322411.8476655
+                }
+            },
+            {
+                "entityName": "781022",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 642641,
+                    "amount": 1105531337.2939954
+                }
+            },
+            {
+                "entityName": "781032",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 607413,
+                    "amount": 955576175.5206772
+                }
+            },
+            {
+                "entityName": "781001",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 441260,
+                    "amount": 881518668.7427199
+                }
+            },
+            {
+                "entityName": "781038",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 429897,
+                    "amount": 775937821.390959
+                }
+            },
+            {
+                "entityName": "781028",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 382727,
+                    "amount": 817368217.3828207
+                }
+            },
+            {
+                "entityName": "781319",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 368895,
+                    "amount": 924024506.300522
+                }
+            },
+            {
+                "entityName": "781316",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 362610,
+                    "amount": 1037947224.1412314
+                }
+            },
+            {
+                "entityName": "781005",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 328830,
+                    "amount": 517855589.3922645
+                }
+            }
+        ]
+    },
+    "responseTimestamp": 1651127598266
+}

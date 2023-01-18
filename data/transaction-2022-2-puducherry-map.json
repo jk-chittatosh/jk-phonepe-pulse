@@ -1,0 +1,49 @@
+{
+    "success": true,
+    "code": "SUCCESS",
+    "data": {
+        "hoverDataList": [
+            {
+                "name": "karaikal district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 417480,
+                        "amount": 788877561.2769251
+                    }
+                ]
+            },
+            {
+                "name": "puducherry district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 7617058,
+                        "amount": 11822245859.332415
+                    }
+                ]
+            },
+            {
+                "name": "yanam district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 481753,
+                        "amount": 963312236.3090451
+                    }
+                ]
+            },
+            {
+                "name": "mahe district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 127396,
+                        "amount": 204309598.85051042
+                    }
+                ]
+            }
+        ]
+    },
+    "responseTimestamp": 1669732201670
+}

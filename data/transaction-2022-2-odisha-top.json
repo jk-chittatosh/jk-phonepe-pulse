@@ -1,0 +1,172 @@
+{
+    "success": true,
+    "code": "SUCCESS",
+    "data": {
+        "states": null,
+        "districts": [
+            {
+                "entityName": "khordha",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 124986765,
+                    "amount": 174299128204.99298
+                }
+            },
+            {
+                "entityName": "cuttack",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 22544912,
+                    "amount": 36561231371.455444
+                }
+            },
+            {
+                "entityName": "ganjam",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 17162973,
+                    "amount": 34095586248.50308
+                }
+            },
+            {
+                "entityName": "jajapur",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 12788486,
+                    "amount": 20441535607.89478
+                }
+            },
+            {
+                "entityName": "baleshwar",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 12044394,
+                    "amount": 22154827661.360664
+                }
+            },
+            {
+                "entityName": "puri",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 11076675,
+                    "amount": 17846685658.05171
+                }
+            },
+            {
+                "entityName": "sundargarh",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 10183902,
+                    "amount": 18077191337.901314
+                }
+            },
+            {
+                "entityName": "kendujhar",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 8741853,
+                    "amount": 16383523040.274462
+                }
+            },
+            {
+                "entityName": "bhadrak",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 8276685,
+                    "amount": 14146459101.732891
+                }
+            },
+            {
+                "entityName": "anugul",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 7523854,
+                    "amount": 13937160595.230968
+                }
+            }
+        ],
+        "pincodes": [
+            {
+                "entityName": "751001",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 69262961,
+                    "amount": 101369063330.80548
+                }
+            },
+            {
+                "entityName": "751024",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 4387654,
+                    "amount": 4680431013.115316
+                }
+            },
+            {
+                "entityName": "751002",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 3462395,
+                    "amount": 5352359376.717368
+                }
+            },
+            {
+                "entityName": "753001",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 3128467,
+                    "amount": 5357561780.61607
+                }
+            },
+            {
+                "entityName": "751006",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 3040789,
+                    "amount": 4647306971.38405
+                }
+            },
+            {
+                "entityName": "751012",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 2978369,
+                    "amount": 3292691396.057083
+                }
+            },
+            {
+                "entityName": "751003",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 2864886,
+                    "amount": 3439627564.61831
+                }
+            },
+            {
+                "entityName": "751019",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 2731945,
+                    "amount": 3688474607.081712
+                }
+            },
+            {
+                "entityName": "751007",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 2631234,
+                    "amount": 3300939917.680371
+                }
+            },
+            {
+                "entityName": "751010",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 2592196,
+                    "amount": 3465363648.0473113
+                }
+            }
+        ]
+    },
+    "responseTimestamp": 1669732231172
+}

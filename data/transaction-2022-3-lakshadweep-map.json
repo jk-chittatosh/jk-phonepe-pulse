@@ -1,0 +1,19 @@
+{
+    "success": true,
+    "code": "SUCCESS",
+    "data": {
+        "hoverDataList": [
+            {
+                "name": "lakshadweep district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 15241,
+                        "amount": 47580009.61750026
+                    }
+                ]
+            }
+        ]
+    },
+    "responseTimestamp": 1669732343360
+}

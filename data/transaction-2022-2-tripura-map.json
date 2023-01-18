@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "code": "SUCCESS",
+    "data": {
+        "hoverDataList": [
+            {
+                "name": "unakoti district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 168534,
+                        "amount": 380245834.42516845
+                    }
+                ]
+            },
+            {
+                "name": "khowai district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 147470,
+                        "amount": 314663693.9199481
+                    }
+                ]
+            },
+            {
+                "name": "sepahijala district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 301211,
+                        "amount": 703075146.3196069
+                    }
+                ]
+            },
+            {
+                "name": "north tripura district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 347933,
+                        "amount": 745615506.6452613
+                    }
+                ]
+            },
+            {
+                "name": "dhalai district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 258585,
+                        "amount": 545900041.1491123
+                    }
+                ]
+            },
+            {
+                "name": "south tripura district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 270412,
+                        "amount": 649809730.8825212
+                    }
+                ]
+            },
+            {
+                "name": "gomati district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 269581,
+                        "amount": 581885804.1766024
+                    }
+                ]
+            },
+            {
+                "name": "west tripura district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 1654938,
+                        "amount": 2957075284.517075
+                    }
+                ]
+            }
+        ]
+    },
+    "responseTimestamp": 1669732211300
+}

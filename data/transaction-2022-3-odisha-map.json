@@ -1,0 +1,309 @@
+{
+    "success": true,
+    "code": "SUCCESS",
+    "data": {
+        "hoverDataList": [
+            {
+                "name": "rayagada district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 4630056,
+                        "amount": 7860841426.804449
+                    }
+                ]
+            },
+            {
+                "name": "koraput district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 5222148,
+                        "amount": 9998538489.170717
+                    }
+                ]
+            },
+            {
+                "name": "malkangiri district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 1473325,
+                        "amount": 3146761920.0637245
+                    }
+                ]
+            },
+            {
+                "name": "sambalpur district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 7870435,
+                        "amount": 11478161491.375761
+                    }
+                ]
+            },
+            {
+                "name": "kalahandi district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 5013207,
+                        "amount": 7966634545.859101
+                    }
+                ]
+            },
+            {
+                "name": "anugul district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 8115183,
+                        "amount": 13631294531.285408
+                    }
+                ]
+            },
+            {
+                "name": "ganjam district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 18696976,
+                        "amount": 33504012152.53193
+                    }
+                ]
+            },
+            {
+                "name": "jajapur district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 13031811,
+                        "amount": 18746602447.445084
+                    }
+                ]
+            },
+            {
+                "name": "bargarh district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 5107762,
+                        "amount": 8890053156.888083
+                    }
+                ]
+            },
+            {
+                "name": "dhenkanal district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 6306392,
+                        "amount": 9609384521.368855
+                    }
+                ]
+            },
+            {
+                "name": "bhadrak district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 8725910,
+                        "amount": 13285204298.360706
+                    }
+                ]
+            },
+            {
+                "name": "nuapada district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 1638138,
+                        "amount": 3030878277.7567472
+                    }
+                ]
+            },
+            {
+                "name": "kendujhar district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 8971733,
+                        "amount": 14742503568.623667
+                    }
+                ]
+            },
+            {
+                "name": "mayurbhanj district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 6682226,
+                        "amount": 10635989150.205183
+                    }
+                ]
+            },
+            {
+                "name": "jharsuguda district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 5377124,
+                        "amount": 8014356028.054185
+                    }
+                ]
+            },
+            {
+                "name": "kandhamal district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 1814757,
+                        "amount": 3284992415.173833
+                    }
+                ]
+            },
+            {
+                "name": "deogarh district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 793258,
+                        "amount": 1434375903.9677882
+                    }
+                ]
+            },
+            {
+                "name": "sundargarh district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 12922754,
+                        "amount": 20430235862.000168
+                    }
+                ]
+            },
+            {
+                "name": "jagatsinghapur district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 7256382,
+                        "amount": 10735372271.141613
+                    }
+                ]
+            },
+            {
+                "name": "balangir district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 5221322,
+                        "amount": 9063831703.893017
+                    }
+                ]
+            },
+            {
+                "name": "baleshwar district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 11721722,
+                        "amount": 19704921264.79484
+                    }
+                ]
+            },
+            {
+                "name": "puri district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 11193823,
+                        "amount": 16592473105.31533
+                    }
+                ]
+            },
+            {
+                "name": "sonepur district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 1778702,
+                        "amount": 3405255943.0292325
+                    }
+                ]
+            },
+            {
+                "name": "khordha district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 182514532,
+                        "amount": 234713995654.54218
+                    }
+                ]
+            },
+            {
+                "name": "boudh district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 1191513,
+                        "amount": 2148876148.799854
+                    }
+                ]
+            },
+            {
+                "name": "gajapati district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 3662329,
+                        "amount": 7752031340.001187
+                    }
+                ]
+            },
+            {
+                "name": "nayagarh district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 4495311,
+                        "amount": 6946679941.389475
+                    }
+                ]
+            },
+            {
+                "name": "nabarangpur district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 2357269,
+                        "amount": 4596544680.665671
+                    }
+                ]
+            },
+            {
+                "name": "kendrapara district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 6258047,
+                        "amount": 9787502106.824364
+                    }
+                ]
+            },
+            {
+                "name": "cuttack district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 26643179,
+                        "amount": 39407252993.2224
+                    }
+                ]
+            }
+        ]
+    },
+    "responseTimestamp": 1669732361778
+}

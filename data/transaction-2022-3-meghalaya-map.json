@@ -1,0 +1,119 @@
+{
+    "success": true,
+    "code": "SUCCESS",
+    "data": {
+        "hoverDataList": [
+            {
+                "name": "north garo hills district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 48727,
+                        "amount": 107884419.5564478
+                    }
+                ]
+            },
+            {
+                "name": "south west khasi hills district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 13340,
+                        "amount": 47102262.07706757
+                    }
+                ]
+            },
+            {
+                "name": "west garo hills district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 508052,
+                        "amount": 1283479556.4130952
+                    }
+                ]
+            },
+            {
+                "name": "south garo hills district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 35206,
+                        "amount": 88310719.84102407
+                    }
+                ]
+            },
+            {
+                "name": "east jaintia hills district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 241204,
+                        "amount": 633317484.0750391
+                    }
+                ]
+            },
+            {
+                "name": "south west garo hills district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 48898,
+                        "amount": 121831916.0453497
+                    }
+                ]
+            },
+            {
+                "name": "east khasi hills district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 2924522,
+                        "amount": 6137770373.209272
+                    }
+                ]
+            },
+            {
+                "name": "east garo hills district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 47047,
+                        "amount": 99390252.25463584
+                    }
+                ]
+            },
+            {
+                "name": "ribhoi district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 400075,
+                        "amount": 825278960.5336027
+                    }
+                ]
+            },
+            {
+                "name": "west jaintia hills district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 62798,
+                        "amount": 171112837.01348788
+                    }
+                ]
+            },
+            {
+                "name": "west khasi hills district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 29296,
+                        "amount": 87822016.10251653
+                    }
+                ]
+            }
+        ]
+    },
+    "responseTimestamp": 1669732351146
+}

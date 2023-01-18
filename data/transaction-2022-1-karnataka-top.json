@@ -1,0 +1,172 @@
+{
+    "success": true,
+    "code": "SUCCESS",
+    "data": {
+        "states": null,
+        "districts": [
+            {
+                "entityName": "bengaluru urban",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 648380838,
+                    "amount": 837938769153.0938
+                }
+            },
+            {
+                "entityName": "mysuru",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 37083502,
+                    "amount": 61822430173.6628
+                }
+            },
+            {
+                "entityName": "belagavi",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 26878240,
+                    "amount": 46658421651.21534
+                }
+            },
+            {
+                "entityName": "dharwad",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 25761398,
+                    "amount": 37328868895.055
+                }
+            },
+            {
+                "entityName": "bengaluru rural",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 25383239,
+                    "amount": 38366097407.82493
+                }
+            },
+            {
+                "entityName": "dakshina kannada",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 23170221,
+                    "amount": 37851830234.158745
+                }
+            },
+            {
+                "entityName": "davanagere",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 22581033,
+                    "amount": 39050377360.95714
+                }
+            },
+            {
+                "entityName": "ballari",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 21654672,
+                    "amount": 38400067163.88623
+                }
+            },
+            {
+                "entityName": "tumakuru",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 20649123,
+                    "amount": 37948656148.62866
+                }
+            },
+            {
+                "entityName": "shivamogga",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 19949316,
+                    "amount": 36172162298.55464
+                }
+            }
+        ],
+        "pincodes": [
+            {
+                "entityName": "560001",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 224793308,
+                    "amount": 308663371704.6546
+                }
+            },
+            {
+                "entityName": "560068",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 20226669,
+                    "amount": 22210300733.91461
+                }
+            },
+            {
+                "entityName": "560076",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 13452682,
+                    "amount": 14741542800.453161
+                }
+            },
+            {
+                "entityName": "560078",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 13374224,
+                    "amount": 16036043456.390444
+                }
+            },
+            {
+                "entityName": "560037",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 11931962,
+                    "amount": 13678730160.975933
+                }
+            },
+            {
+                "entityName": "577006",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 11370123,
+                    "amount": 19174843770.63567
+                }
+            },
+            {
+                "entityName": "560043",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 11337710,
+                    "amount": 13842727969.772015
+                }
+            },
+            {
+                "entityName": "560058",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 10935539,
+                    "amount": 14153604946.043581
+                }
+            },
+            {
+                "entityName": "560091",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 10867507,
+                    "amount": 15929339299.049034
+                }
+            },
+            {
+                "entityName": "560100",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 10730328,
+                    "amount": 11096723262.099945
+                }
+            }
+        ]
+    },
+    "responseTimestamp": 1651127606583
+}

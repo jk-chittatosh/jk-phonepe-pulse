@@ -1,0 +1,49 @@
+{
+    "success": true,
+    "code": "SUCCESS",
+    "data": {
+        "hoverDataList": [
+            {
+                "name": "south district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 406488,
+                        "amount": 760409362.3196087
+                    }
+                ]
+            },
+            {
+                "name": "west district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 204845,
+                        "amount": 503543689.90772784
+                    }
+                ]
+            },
+            {
+                "name": "east district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 1604446,
+                        "amount": 3375012613.0491495
+                    }
+                ]
+            },
+            {
+                "name": "north district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 180979,
+                        "amount": 523914878.6149709
+                    }
+                ]
+            }
+        ]
+    },
+    "responseTimestamp": 1669732378101
+}

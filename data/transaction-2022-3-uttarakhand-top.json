@@ -1,0 +1,172 @@
+{
+    "success": true,
+    "code": "SUCCESS",
+    "data": {
+        "states": null,
+        "districts": [
+            {
+                "entityName": "dehradun",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 31286908,
+                    "amount": 43421889600.77414
+                }
+            },
+            {
+                "entityName": "haridwar",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 12207906,
+                    "amount": 17469868639.355198
+                }
+            },
+            {
+                "entityName": "udham singh nagar",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 8359056,
+                    "amount": 12605973683.641441
+                }
+            },
+            {
+                "entityName": "nainital",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 4918426,
+                    "amount": 7504228522.498604
+                }
+            },
+            {
+                "entityName": "pauri garhwal",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 1692144,
+                    "amount": 2462947906.054614
+                }
+            },
+            {
+                "entityName": "tehri garhwal",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 1282593,
+                    "amount": 1914407105.066064
+                }
+            },
+            {
+                "entityName": "almora",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 862733,
+                    "amount": 1333633913.7202659
+                }
+            },
+            {
+                "entityName": "pithoragarh",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 824882,
+                    "amount": 1386396764.7434978
+                }
+            },
+            {
+                "entityName": "chamoli",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 759073,
+                    "amount": 1357043504.4213452
+                }
+            },
+            {
+                "entityName": "uttarkashi",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 574366,
+                    "amount": 1020415832.5023174
+                }
+            }
+        ],
+        "pincodes": [
+            {
+                "entityName": "248001",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 19127567,
+                    "amount": 27902445785.856255
+                }
+            },
+            {
+                "entityName": "263139",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 3019520,
+                    "amount": 4554975862.678262
+                }
+            },
+            {
+                "entityName": "263153",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 2116199,
+                    "amount": 2820472984.914502
+                }
+            },
+            {
+                "entityName": "247667",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 2097624,
+                    "amount": 3066932041.076841
+                }
+            },
+            {
+                "entityName": "249401",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 1945773,
+                    "amount": 2807845699.2045984
+                }
+            },
+            {
+                "entityName": "248007",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 1790626,
+                    "amount": 1873791542.1330996
+                }
+            },
+            {
+                "entityName": "244713",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 1558416,
+                    "amount": 2578703123.013892
+                }
+            },
+            {
+                "entityName": "249403",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 1491972,
+                    "amount": 1749909963.533571
+                }
+            },
+            {
+                "entityName": "263148",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 1143827,
+                    "amount": 1829907196.2538972
+                }
+            },
+            {
+                "entityName": "248008",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 975894,
+                    "amount": 1239404731.5307622
+                }
+            }
+        ]
+    },
+    "responseTimestamp": 1669732392918
+}

@@ -1,0 +1,116 @@
+{
+    "success": true,
+    "code": "SUCCESS",
+    "data": {
+        "states": null,
+        "districts": [
+            {
+                "entityName": "south andaman",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 705512,
+                    "amount": 1872991195.902684
+                }
+            },
+            {
+                "entityName": "north and middle andaman",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 60059,
+                    "amount": 161624878.52274162
+                }
+            },
+            {
+                "entityName": "nicobars",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 29177,
+                    "amount": 94414127.64974089
+                }
+            }
+        ],
+        "pincodes": [
+            {
+                "entityName": "744101",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 209941,
+                    "amount": 615978080.6944855
+                }
+            },
+            {
+                "entityName": "744103",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 157230,
+                    "amount": 399715980.1391735
+                }
+            },
+            {
+                "entityName": "744105",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 122716,
+                    "amount": 321850608.7396423
+                }
+            },
+            {
+                "entityName": "744102",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 74883,
+                    "amount": 193336549.94178736
+                }
+            },
+            {
+                "entityName": "744104",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 32471,
+                    "amount": 72915521.83614868
+                }
+            },
+            {
+                "entityName": "744211",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 30272,
+                    "amount": 86955570.58655271
+                }
+            },
+            {
+                "entityName": "744107",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 25379,
+                    "amount": 58776727.62636636
+                }
+            },
+            {
+                "entityName": "744202",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 24022,
+                    "amount": 68519268.77643085
+                }
+            },
+            {
+                "entityName": "744112",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 23471,
+                    "amount": 55469783.6622991
+                }
+            },
+            {
+                "entityName": "744301",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 17630,
+                    "amount": 56879992.28461884
+                }
+            }
+        ]
+    },
+    "responseTimestamp": 1651127590011
+}

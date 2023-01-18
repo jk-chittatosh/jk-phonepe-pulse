@@ -1,0 +1,339 @@
+{
+    "success": true,
+    "code": "SUCCESS",
+    "data": {
+        "hoverDataList": [
+            {
+                "name": "pali district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 8668074,
+                        "amount": 17160215080.703873
+                    }
+                ]
+            },
+            {
+                "name": "ganganagar district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 11882025,
+                        "amount": 22557602051.766155
+                    }
+                ]
+            },
+            {
+                "name": "churu district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 8257600,
+                        "amount": 18081738963.407227
+                    }
+                ]
+            },
+            {
+                "name": "jaipur district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 314511010,
+                        "amount": 497492495896.22046
+                    }
+                ]
+            },
+            {
+                "name": "baran district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 3685832,
+                        "amount": 7229260131.890043
+                    }
+                ]
+            },
+            {
+                "name": "bhilwara district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 20131391,
+                        "amount": 38273076738.35588
+                    }
+                ]
+            },
+            {
+                "name": "banswara district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 2337103,
+                        "amount": 4900005809.650963
+                    }
+                ]
+            },
+            {
+                "name": "dungarpur district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 1899171,
+                        "amount": 3638952978.96605
+                    }
+                ]
+            },
+            {
+                "name": "tonk district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 8150133,
+                        "amount": 13811523631.619999
+                    }
+                ]
+            },
+            {
+                "name": "jodhpur district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 31463295,
+                        "amount": 61614349060.01106
+                    }
+                ]
+            },
+            {
+                "name": "karauli district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 5012114,
+                        "amount": 9206349483.513716
+                    }
+                ]
+            },
+            {
+                "name": "udaipur district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 15896129,
+                        "amount": 24912652507.999565
+                    }
+                ]
+            },
+            {
+                "name": "dausa district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 12578789,
+                        "amount": 19527845596.347805
+                    }
+                ]
+            },
+            {
+                "name": "nagaur district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 14631304,
+                        "amount": 33408260595.265953
+                    }
+                ]
+            },
+            {
+                "name": "bharatpur district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 8637412,
+                        "amount": 16444974525.83487
+                    }
+                ]
+            },
+            {
+                "name": "barmer district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 13273476,
+                        "amount": 29634982538.374557
+                    }
+                ]
+            },
+            {
+                "name": "ajmer district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 20900496,
+                        "amount": 40715583331.30888
+                    }
+                ]
+            },
+            {
+                "name": "chittorgarh district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 8396831,
+                        "amount": 16148783709.582657
+                    }
+                ]
+            },
+            {
+                "name": "hanumangarh district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 7429430,
+                        "amount": 16401668344.542992
+                    }
+                ]
+            },
+            {
+                "name": "pratapgarh district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 1885590,
+                        "amount": 4033817039.193558
+                    }
+                ]
+            },
+            {
+                "name": "sawai madhopur district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 7873045,
+                        "amount": 12262315403.645233
+                    }
+                ]
+            },
+            {
+                "name": "jalore district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 5321185,
+                        "amount": 14025921249.715084
+                    }
+                ]
+            },
+            {
+                "name": "bikaner district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 13694139,
+                        "amount": 26087476960.412987
+                    }
+                ]
+            },
+            {
+                "name": "sikar district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 19932783,
+                        "amount": 40102076741.92372
+                    }
+                ]
+            },
+            {
+                "name": "dholpur district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 3298278,
+                        "amount": 6894675131.058619
+                    }
+                ]
+            },
+            {
+                "name": "sirohi district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 4023871,
+                        "amount": 7194139293.674581
+                    }
+                ]
+            },
+            {
+                "name": "rajsamand district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 5301424,
+                        "amount": 10184357986.945518
+                    }
+                ]
+            },
+            {
+                "name": "jaisalmer district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 5269349,
+                        "amount": 9862231669.414537
+                    }
+                ]
+            },
+            {
+                "name": "bundi district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 4673601,
+                        "amount": 8088389075.404289
+                    }
+                ]
+            },
+            {
+                "name": "jhalawar district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 5465987,
+                        "amount": 10395227508.431992
+                    }
+                ]
+            },
+            {
+                "name": "alwar district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 31488094,
+                        "amount": 50746151172.86586
+                    }
+                ]
+            },
+            {
+                "name": "kota district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 22930803,
+                        "amount": 36055197912.070015
+                    }
+                ]
+            },
+            {
+                "name": "jhunjhunu district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 12270386,
+                        "amount": 25741220480.27944
+                    }
+                ]
+            }
+        ]
+    },
+    "responseTimestamp": 1669732221941
+}

@@ -1,0 +1,19 @@
+{
+    "success": true,
+    "code": "SUCCESS",
+    "data": {
+        "hoverDataList": [
+            {
+                "name": "chandigarh district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 13478173,
+                        "amount": 20559757737.405857
+                    }
+                ]
+            }
+        ]
+    },
+    "responseTimestamp": 1669732369781
+}

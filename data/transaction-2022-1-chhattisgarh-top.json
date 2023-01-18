@@ -1,0 +1,172 @@
+{
+    "success": true,
+    "code": "SUCCESS",
+    "data": {
+        "states": null,
+        "districts": [
+            {
+                "entityName": "raipur",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 25836062,
+                    "amount": 39990361268.69826
+                }
+            },
+            {
+                "entityName": "durg",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 11345594,
+                    "amount": 16423362101.016966
+                }
+            },
+            {
+                "entityName": "bilaspur",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 9081044,
+                    "amount": 13169861328.371489
+                }
+            },
+            {
+                "entityName": "raigarh",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 5959088,
+                    "amount": 9885641555.115366
+                }
+            },
+            {
+                "entityName": "korba",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 5626866,
+                    "amount": 8306489271.356157
+                }
+            },
+            {
+                "entityName": "janjgir champa",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 5495226,
+                    "amount": 8737068867.594166
+                }
+            },
+            {
+                "entityName": "rajnandgaon",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 3505850,
+                    "amount": 6015130524.624991
+                }
+            },
+            {
+                "entityName": "surguja",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 3182242,
+                    "amount": 5281342196.784164
+                }
+            },
+            {
+                "entityName": "baloda bazar",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 2925957,
+                    "amount": 5025353758.266698
+                }
+            },
+            {
+                "entityName": "mahasamund",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 2788159,
+                    "amount": 5020017743.469414
+                }
+            }
+        ],
+        "pincodes": [
+            {
+                "entityName": "492009",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 8604266,
+                    "amount": 13265608315.34198
+                }
+            },
+            {
+                "entityName": "492001",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 4654685,
+                    "amount": 6852734645.639161
+                }
+            },
+            {
+                "entityName": "495001",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 4183815,
+                    "amount": 5693220429.873732
+                }
+            },
+            {
+                "entityName": "497001",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 2608953,
+                    "amount": 4270065647.0031033
+                }
+            },
+            {
+                "entityName": "491001",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 1854312,
+                    "amount": 2829231024.442624
+                }
+            },
+            {
+                "entityName": "490023",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 1719478,
+                    "amount": 2432156635.4437113
+                }
+            },
+            {
+                "entityName": "491441",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 1691392,
+                    "amount": 2775775912.1836176
+                }
+            },
+            {
+                "entityName": "496005",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 1601573,
+                    "amount": 2711974013.620237
+                }
+            },
+            {
+                "entityName": "495450",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 1580837,
+                    "amount": 2356394521.081302
+                }
+            },
+            {
+                "entityName": "490006",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 1506932,
+                    "amount": 1842102092.8597531
+                }
+            }
+        ]
+    },
+    "responseTimestamp": 1651127621868
+}

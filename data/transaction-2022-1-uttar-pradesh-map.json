@@ -1,0 +1,759 @@
+{
+    "success": true,
+    "code": "SUCCESS",
+    "data": {
+        "hoverDataList": [
+            {
+                "name": "amethi district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 2281603,
+                        "amount": 4949433384.917047
+                    }
+                ]
+            },
+            {
+                "name": "siddharthnagar district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 2766216,
+                        "amount": 7877047599.021046
+                    }
+                ]
+            },
+            {
+                "name": "auraiya district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 1869183,
+                        "amount": 3924566144.591461
+                    }
+                ]
+            },
+            {
+                "name": "sambhal district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 2241547,
+                        "amount": 5793794917.485758
+                    }
+                ]
+            },
+            {
+                "name": "kanpur nagar district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 14902263,
+                        "amount": 27612832763.662388
+                    }
+                ]
+            },
+            {
+                "name": "aligarh district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 9297702,
+                        "amount": 17226202534.103092
+                    }
+                ]
+            },
+            {
+                "name": "mahoba district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 1061513,
+                        "amount": 2091213800.799283
+                    }
+                ]
+            },
+            {
+                "name": "lucknow district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 79740953,
+                        "amount": 132456458141.91397
+                    }
+                ]
+            },
+            {
+                "name": "sant kabeer nagar district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 1809298,
+                        "amount": 5006053011.635339
+                    }
+                ]
+            },
+            {
+                "name": "hathras district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 2544994,
+                        "amount": 4961032408.739348
+                    }
+                ]
+            },
+            {
+                "name": "budaun district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 2468101,
+                        "amount": 5559989020.570245
+                    }
+                ]
+            },
+            {
+                "name": "moradabad district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 5872116,
+                        "amount": 13797959505.415762
+                    }
+                ]
+            },
+            {
+                "name": "kushinagar district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 5920919,
+                        "amount": 13826323901.960476
+                    }
+                ]
+            },
+            {
+                "name": "baghpat district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 3134912,
+                        "amount": 6015343104.730775
+                    }
+                ]
+            },
+            {
+                "name": "shahjahanpur district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 2362316,
+                        "amount": 5179819610.987305
+                    }
+                ]
+            },
+            {
+                "name": "muzaffarnagar district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 5528162,
+                        "amount": 11224151774.398146
+                    }
+                ]
+            },
+            {
+                "name": "ambedkar nagar district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 2576776,
+                        "amount": 5657979802.905907
+                    }
+                ]
+            },
+            {
+                "name": "bahraich district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 2051767,
+                        "amount": 4932405539.104585
+                    }
+                ]
+            },
+            {
+                "name": "jalaun district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 2461314,
+                        "amount": 5106027896.444149
+                    }
+                ]
+            },
+            {
+                "name": "rampur district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 2679287,
+                        "amount": 6552422185.85049
+                    }
+                ]
+            },
+            {
+                "name": "ballia district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 4663445,
+                        "amount": 10089387420.30872
+                    }
+                ]
+            },
+            {
+                "name": "shravasti district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 513337,
+                        "amount": 1276881399.3167756
+                    }
+                ]
+            },
+            {
+                "name": "kasganj district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 1490664,
+                        "amount": 3098648302.6837435
+                    }
+                ]
+            },
+            {
+                "name": "varanasi district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 13246317,
+                        "amount": 24155800509.84869
+                    }
+                ]
+            },
+            {
+                "name": "gautam buddha nagar district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 58229149,
+                        "amount": 74371363420.47154
+                    }
+                ]
+            },
+            {
+                "name": "basti district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 3171081,
+                        "amount": 8259872955.5138235
+                    }
+                ]
+            },
+            {
+                "name": "shamli district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 2386623,
+                        "amount": 4984802640.681722
+                    }
+                ]
+            },
+            {
+                "name": "maharajganj district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 2935993,
+                        "amount": 7443669136.4819565
+                    }
+                ]
+            },
+            {
+                "name": "etawah district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 2818952,
+                        "amount": 5450090057.698875
+                    }
+                ]
+            },
+            {
+                "name": "etah district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 2222233,
+                        "amount": 4658353697.005914
+                    }
+                ]
+            },
+            {
+                "name": "banda district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 1285406,
+                        "amount": 2827317393.902899
+                    }
+                ]
+            },
+            {
+                "name": "bijnor district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 4556385,
+                        "amount": 10094430397.120468
+                    }
+                ]
+            },
+            {
+                "name": "hardoi district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 2397229,
+                        "amount": 5226726883.148428
+                    }
+                ]
+            },
+            {
+                "name": "balrampur district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 1512682,
+                        "amount": 4134411039.765115
+                    }
+                ]
+            },
+            {
+                "name": "amroha district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 3166176,
+                        "amount": 7348977786.046396
+                    }
+                ]
+            },
+            {
+                "name": "pilibhit district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 1699024,
+                        "amount": 3775699005.524225
+                    }
+                ]
+            },
+            {
+                "name": "mainpuri district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 2658572,
+                        "amount": 5379603826.633483
+                    }
+                ]
+            },
+            {
+                "name": "kanpur dehat district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 1942905,
+                        "amount": 4333786308.7505665
+                    }
+                ]
+            },
+            {
+                "name": "jaunpur district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 5732078,
+                        "amount": 12339786015.769125
+                    }
+                ]
+            },
+            {
+                "name": "kaushambi district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 1055821,
+                        "amount": 2603044267.9469123
+                    }
+                ]
+            },
+            {
+                "name": "hapur district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 4252516,
+                        "amount": 7654942019.249874
+                    }
+                ]
+            },
+            {
+                "name": "hamirpur district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 1194334,
+                        "amount": 2605323820.859616
+                    }
+                ]
+            },
+            {
+                "name": "meerut district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 17966278,
+                        "amount": 32377627599.030327
+                    }
+                ]
+            },
+            {
+                "name": "mathura district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 8531094,
+                        "amount": 15609347409.960985
+                    }
+                ]
+            },
+            {
+                "name": "chitrakoot district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 826329,
+                        "amount": 2022569945.2552247
+                    }
+                ]
+            },
+            {
+                "name": "lalitpur district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 2194300,
+                        "amount": 3579385466.472417
+                    }
+                ]
+            },
+            {
+                "name": "mau district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 2612859,
+                        "amount": 5613834666.8432665
+                    }
+                ]
+            },
+            {
+                "name": "mirzapur district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 2688423,
+                        "amount": 6207427422.506447
+                    }
+                ]
+            },
+            {
+                "name": "bulandshahr district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 7126702,
+                        "amount": 13317537041.872564
+                    }
+                ]
+            },
+            {
+                "name": "gonda district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 2976378,
+                        "amount": 7859357685.401491
+                    }
+                ]
+            },
+            {
+                "name": "jhansi district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 6222605,
+                        "amount": 12113931735.840141
+                    }
+                ]
+            },
+            {
+                "name": "chandauli district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 2767958,
+                        "amount": 6268851772.096302
+                    }
+                ]
+            },
+            {
+                "name": "bhadohi district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 1857253,
+                        "amount": 3521596144.3676004
+                    }
+                ]
+            },
+            {
+                "name": "pratapgarh district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 3485721,
+                        "amount": 7530816848.558338
+                    }
+                ]
+            },
+            {
+                "name": "saharanpur district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 8505967,
+                        "amount": 17060963965.718029
+                    }
+                ]
+            },
+            {
+                "name": "bara banki district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 2756907,
+                        "amount": 5554049119.497407
+                    }
+                ]
+            },
+            {
+                "name": "bareilly district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 7495930,
+                        "amount": 15645590197.23569
+                    }
+                ]
+            },
+            {
+                "name": "sitapur district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 2509828,
+                        "amount": 5121772109.367386
+                    }
+                ]
+            },
+            {
+                "name": "sultanpur district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 2804118,
+                        "amount": 5988109959.726221
+                    }
+                ]
+            },
+            {
+                "name": "agra district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 14010919,
+                        "amount": 26233858697.697464
+                    }
+                ]
+            },
+            {
+                "name": "fatehpur district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 1866980,
+                        "amount": 4216035473.7059484
+                    }
+                ]
+            },
+            {
+                "name": "rae bareli district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 2423540,
+                        "amount": 5135560611.621827
+                    }
+                ]
+            },
+            {
+                "name": "firozabad district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 4214293,
+                        "amount": 8358523538.127422
+                    }
+                ]
+            },
+            {
+                "name": "kheri district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 2681909,
+                        "amount": 5374427624.271145
+                    }
+                ]
+            },
+            {
+                "name": "gorakhpur district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 10758812,
+                        "amount": 22861881939.64662
+                    }
+                ]
+            },
+            {
+                "name": "unnao district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 2255883,
+                        "amount": 4791095600.660578
+                    }
+                ]
+            },
+            {
+                "name": "prayagraj district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 16566417,
+                        "amount": 28293055160.255882
+                    }
+                ]
+            },
+            {
+                "name": "sonbhadra district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 3610644,
+                        "amount": 7460078934.126489
+                    }
+                ]
+            },
+            {
+                "name": "ghazipur district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 5152181,
+                        "amount": 11433036326.794239
+                    }
+                ]
+            },
+            {
+                "name": "farrukhabad district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 2337305,
+                        "amount": 4707314462.366316
+                    }
+                ]
+            },
+            {
+                "name": "kannauj district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 1962919,
+                        "amount": 3934124571.379535
+                    }
+                ]
+            },
+            {
+                "name": "azamgarh district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 5659371,
+                        "amount": 12390736135.18719
+                    }
+                ]
+            },
+            {
+                "name": "ayodhya district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 4287723,
+                        "amount": 8980632457.576317
+                    }
+                ]
+            },
+            {
+                "name": "deoria district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 5184948,
+                        "amount": 11125054963.23863
+                    }
+                ]
+            },
+            {
+                "name": "ghaziabad district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 30948888,
+                        "amount": 50571013176.649765
+                    }
+                ]
+            }
+        ]
+    },
+    "responseTimestamp": 1651127574347
+}

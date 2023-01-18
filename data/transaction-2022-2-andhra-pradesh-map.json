@@ -1,0 +1,139 @@
+{
+    "success": true,
+    "code": "SUCCESS",
+    "data": {
+        "hoverDataList": [
+            {
+                "name": "east godavari district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 62072845,
+                        "amount": 135531452997.6391
+                    }
+                ]
+            },
+            {
+                "name": "srikakulam district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 23727353,
+                        "amount": 53754764122.4327
+                    }
+                ]
+            },
+            {
+                "name": "spsr nellore district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 54838708,
+                        "amount": 121941082043.49483
+                    }
+                ]
+            },
+            {
+                "name": "vizianagaram district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 21766135,
+                        "amount": 47294745020.495636
+                    }
+                ]
+            },
+            {
+                "name": "visakhapatnam district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 101387402,
+                        "amount": 193242841582.14285
+                    }
+                ]
+            },
+            {
+                "name": "prakasam district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 36163507,
+                        "amount": 90435082545.97766
+                    }
+                ]
+            },
+            {
+                "name": "anantapur district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 46099366,
+                        "amount": 102138758015.76915
+                    }
+                ]
+            },
+            {
+                "name": "ysr district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 33154559,
+                        "amount": 87601310069.59737
+                    }
+                ]
+            },
+            {
+                "name": "west godavari district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 44409239,
+                        "amount": 107973244960.42824
+                    }
+                ]
+            },
+            {
+                "name": "kurnool district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 40165692,
+                        "amount": 92409350855.50198
+                    }
+                ]
+            },
+            {
+                "name": "chittoor district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 67507661,
+                        "amount": 136435445124.75616
+                    }
+                ]
+            },
+            {
+                "name": "guntur district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 66315749,
+                        "amount": 147098141568.7623
+                    }
+                ]
+            },
+            {
+                "name": "krishna district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 73525814,
+                        "amount": 163997729295.93134
+                    }
+                ]
+            }
+        ]
+    },
+    "responseTimestamp": 1669732210739
+}

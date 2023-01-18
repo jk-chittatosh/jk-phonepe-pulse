@@ -1,0 +1,229 @@
+{
+    "success": true,
+    "code": "SUCCESS",
+    "data": {
+        "hoverDataList": [
+            {
+                "name": "shahid bhagat singh nagar district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 483153,
+                        "amount": 937934712.0162878
+                    }
+                ]
+            },
+            {
+                "name": "fazilka district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 2618054,
+                        "amount": 5147923013.794576
+                    }
+                ]
+            },
+            {
+                "name": "barnala district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 532765,
+                        "amount": 1210798411.0569434
+                    }
+                ]
+            },
+            {
+                "name": "mansa district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 701264,
+                        "amount": 1580218153.358941
+                    }
+                ]
+            },
+            {
+                "name": "ludhiana district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 31697344,
+                        "amount": 52659794645.55728
+                    }
+                ]
+            },
+            {
+                "name": "sri muktsar sahib district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 908002,
+                        "amount": 2023500642.6358242
+                    }
+                ]
+            },
+            {
+                "name": "patiala district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 4007021,
+                        "amount": 8011939442.457413
+                    }
+                ]
+            },
+            {
+                "name": "pathankot district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 1792893,
+                        "amount": 3662889899.847559
+                    }
+                ]
+            },
+            {
+                "name": "fatehgarh sahib district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 1208117,
+                        "amount": 2017933257.7632415
+                    }
+                ]
+            },
+            {
+                "name": "rupnagar district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 1215417,
+                        "amount": 2082392159.9584696
+                    }
+                ]
+            },
+            {
+                "name": "tarn taran district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 1165600,
+                        "amount": 3069186486.8758945
+                    }
+                ]
+            },
+            {
+                "name": "sas nagar district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 13524410,
+                        "amount": 18050299571.024506
+                    }
+                ]
+            },
+            {
+                "name": "sangrur district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 1738211,
+                        "amount": 3906837027.394226
+                    }
+                ]
+            },
+            {
+                "name": "jalandhar district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 4730075,
+                        "amount": 9243374092.577248
+                    }
+                ]
+            },
+            {
+                "name": "bathinda district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 2929344,
+                        "amount": 5852032739.03561
+                    }
+                ]
+            },
+            {
+                "name": "kapurthala district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 2952123,
+                        "amount": 3702626207.3035703
+                    }
+                ]
+            },
+            {
+                "name": "firozepur district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 1258324,
+                        "amount": 2715437422.3525076
+                    }
+                ]
+            },
+            {
+                "name": "gurdaspur district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 1703819,
+                        "amount": 3946159562.031533
+                    }
+                ]
+            },
+            {
+                "name": "amritsar district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 5353882,
+                        "amount": 11781862029.205471
+                    }
+                ]
+            },
+            {
+                "name": "faridkot district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 862675,
+                        "amount": 1828525829.564373
+                    }
+                ]
+            },
+            {
+                "name": "hoshiarpur district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 1789334,
+                        "amount": 3625177520.5732203
+                    }
+                ]
+            },
+            {
+                "name": "moga district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 1006070,
+                        "amount": 2262600179.9705143
+                    }
+                ]
+            }
+        ]
+    },
+    "responseTimestamp": 1669732359647
+}

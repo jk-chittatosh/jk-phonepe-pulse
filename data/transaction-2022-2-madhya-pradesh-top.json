@@ -1,0 +1,172 @@
+{
+    "success": true,
+    "code": "SUCCESS",
+    "data": {
+        "states": null,
+        "districts": [
+            {
+                "entityName": "bhopal",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 185588829,
+                    "amount": 255910395858.58392
+                }
+            },
+            {
+                "entityName": "indore",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 94002709,
+                    "amount": 130634964642.79424
+                }
+            },
+            {
+                "entityName": "gwalior",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 18027874,
+                    "amount": 32093579424.108437
+                }
+            },
+            {
+                "entityName": "jabalpur",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 16889784,
+                    "amount": 27629576719.43084
+                }
+            },
+            {
+                "entityName": "ujjain",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 12860422,
+                    "amount": 22270090166.47255
+                }
+            },
+            {
+                "entityName": "dhar",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 11567048,
+                    "amount": 18840900182.77164
+                }
+            },
+            {
+                "entityName": "dewas",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 9969749,
+                    "amount": 16816037627.773096
+                }
+            },
+            {
+                "entityName": "chhindwara",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 8962440,
+                    "amount": 14596356954.002365
+                }
+            },
+            {
+                "entityName": "sehore",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 8725327,
+                    "amount": 14417789308.970549
+                }
+            },
+            {
+                "entityName": "rewa",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 8417985,
+                    "amount": 16928268530.619324
+                }
+            }
+        ],
+        "pincodes": [
+            {
+                "entityName": "462008",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 137837715,
+                    "amount": 198147341166.69937
+                }
+            },
+            {
+                "entityName": "452005",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 32975727,
+                    "amount": 49649233331.68253
+                }
+            },
+            {
+                "entityName": "452010",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 7218657,
+                    "amount": 8588780339.697897
+                }
+            },
+            {
+                "entityName": "452001",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 7076259,
+                    "amount": 8193327848.437268
+                }
+            },
+            {
+                "entityName": "482001",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 7032988,
+                    "amount": 10760742332.972424
+                }
+            },
+            {
+                "entityName": "462001",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 6697994,
+                    "amount": 10032979289.040089
+                }
+            },
+            {
+                "entityName": "455001",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 5419403,
+                    "amount": 8410015999.6397705
+                }
+            },
+            {
+                "entityName": "452016",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 4554580,
+                    "amount": 6766903710.683275
+                }
+            },
+            {
+                "entityName": "452020",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 4540833,
+                    "amount": 5308580645.850723
+                }
+            },
+            {
+                "entityName": "482002",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 4137398,
+                    "amount": 7303848628.662529
+                }
+            }
+        ]
+    },
+    "responseTimestamp": 1669732205066
+}

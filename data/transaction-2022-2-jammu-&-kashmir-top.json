@@ -1,0 +1,172 @@
+{
+    "success": true,
+    "code": "SUCCESS",
+    "data": {
+        "states": null,
+        "districts": [
+            {
+                "entityName": "jammu",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 7441002,
+                    "amount": 14880950856.224466
+                }
+            },
+            {
+                "entityName": "srinagar",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 4660647,
+                    "amount": 9640282801.134441
+                }
+            },
+            {
+                "entityName": "baramulla",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 1226879,
+                    "amount": 2154959862.6085277
+                }
+            },
+            {
+                "entityName": "anantnag",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 1214291,
+                    "amount": 1884518051.065606
+                }
+            },
+            {
+                "entityName": "budgam",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 1052343,
+                    "amount": 1977187447.21696
+                }
+            },
+            {
+                "entityName": "kupwara",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 975579,
+                    "amount": 1819041252.88245
+                }
+            },
+            {
+                "entityName": "udhampur",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 947548,
+                    "amount": 1877648827.461425
+                }
+            },
+            {
+                "entityName": "kathua",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 817009,
+                    "amount": 1514113031.121934
+                }
+            },
+            {
+                "entityName": "pulwama",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 790442,
+                    "amount": 1527002272.083313
+                }
+            },
+            {
+                "entityName": "samba",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 783532,
+                    "amount": 1573110669.1012697
+                }
+            }
+        ],
+        "pincodes": [
+            {
+                "entityName": "180005",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 3448814,
+                    "amount": 7135693305.580682
+                }
+            },
+            {
+                "entityName": "190001",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 3218384,
+                    "amount": 6873198427.273058
+                }
+            },
+            {
+                "entityName": "182101",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 507016,
+                    "amount": 1030277399.4072742
+                }
+            },
+            {
+                "entityName": "192101",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 299749,
+                    "amount": 513254025.9463793
+                }
+            },
+            {
+                "entityName": "193222",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 298857,
+                    "amount": 616458581.3548161
+                }
+            },
+            {
+                "entityName": "180001",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 283442,
+                    "amount": 493552585.0163267
+                }
+            },
+            {
+                "entityName": "181133",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 277790,
+                    "amount": 510306193.3714827
+                }
+            },
+            {
+                "entityName": "182301",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 276172,
+                    "amount": 620415475.7744751
+                }
+            },
+            {
+                "entityName": "180012",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 273527,
+                    "amount": 565038397.0183213
+                }
+            },
+            {
+                "entityName": "192231",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 268424,
+                    "amount": 390138848.96554774
+                }
+            }
+        ]
+    },
+    "responseTimestamp": 1669732255023
+}

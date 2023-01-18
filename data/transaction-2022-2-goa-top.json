@@ -1,0 +1,108 @@
+{
+    "success": true,
+    "code": "SUCCESS",
+    "data": {
+        "states": null,
+        "districts": [
+            {
+                "entityName": "north goa",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 9999773,
+                    "amount": 16484842033.028084
+                }
+            },
+            {
+                "entityName": "south goa",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 4216281,
+                    "amount": 6388195726.492123
+                }
+            }
+        ],
+        "pincodes": [
+            {
+                "entityName": "403001",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 2800103,
+                    "amount": 4813402074.055575
+                }
+            },
+            {
+                "entityName": "403516",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 1439820,
+                    "amount": 2301577602.2906885
+                }
+            },
+            {
+                "entityName": "403601",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 607869,
+                    "amount": 1021676601.4450332
+                }
+            },
+            {
+                "entityName": "403401",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 507069,
+                    "amount": 846827682.8290693
+                }
+            },
+            {
+                "entityName": "403518",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 478632,
+                    "amount": 716800766.1650076
+                }
+            },
+            {
+                "entityName": "403802",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 451143,
+                    "amount": 662134760.2385962
+                }
+            },
+            {
+                "entityName": "403509",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 447804,
+                    "amount": 669655284.3656847
+                }
+            },
+            {
+                "entityName": "403507",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 428555,
+                    "amount": 712951425.2703474
+                }
+            },
+            {
+                "entityName": "403722",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 417201,
+                    "amount": 432896368.2479522
+                }
+            },
+            {
+                "entityName": "403515",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 416577,
+                    "amount": 744458372.7928652
+                }
+            }
+        ]
+    },
+    "responseTimestamp": 1669732255528
+}

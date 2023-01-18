@@ -1,0 +1,339 @@
+{
+    "success": true,
+    "code": "SUCCESS",
+    "data": {
+        "hoverDataList": [
+            {
+                "name": "anand district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 3048076,
+                        "amount": 5515844713.90881
+                    }
+                ]
+            },
+            {
+                "name": "jamnagar district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 2155185,
+                        "amount": 3995387220.064081
+                    }
+                ]
+            },
+            {
+                "name": "devbhumi dwarka district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 577554,
+                        "amount": 1393188002.3646598
+                    }
+                ]
+            },
+            {
+                "name": "rajkot district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 5044420,
+                        "amount": 11183107357.249798
+                    }
+                ]
+            },
+            {
+                "name": "aravallis district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 1603295,
+                        "amount": 3245867369.8418803
+                    }
+                ]
+            },
+            {
+                "name": "chhotaudepur district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 469160,
+                        "amount": 961037555.5333877
+                    }
+                ]
+            },
+            {
+                "name": "botad district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 1089654,
+                        "amount": 2529006396.9082165
+                    }
+                ]
+            },
+            {
+                "name": "bharuch district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 7704075,
+                        "amount": 12142511077.777298
+                    }
+                ]
+            },
+            {
+                "name": "bhavnagar district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 2733486,
+                        "amount": 6507151536.779606
+                    }
+                ]
+            },
+            {
+                "name": "junagadh district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 1159000,
+                        "amount": 2632740612.928868
+                    }
+                ]
+            },
+            {
+                "name": "mahesana district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 5772191,
+                        "amount": 12148997855.252472
+                    }
+                ]
+            },
+            {
+                "name": "the dangs district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 199292,
+                        "amount": 319930741.7016173
+                    }
+                ]
+            },
+            {
+                "name": "kheda district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 2392631,
+                        "amount": 4653031406.32455
+                    }
+                ]
+            },
+            {
+                "name": "surat district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 31199368,
+                        "amount": 60384509134.17688
+                    }
+                ]
+            },
+            {
+                "name": "porbandar district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 368108,
+                        "amount": 1041885112.1535248
+                    }
+                ]
+            },
+            {
+                "name": "gandhinagar district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 8605006,
+                        "amount": 14673670632.364445
+                    }
+                ]
+            },
+            {
+                "name": "panch mahals district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 2317566,
+                        "amount": 4354464949.808912
+                    }
+                ]
+            },
+            {
+                "name": "narmada district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 590661,
+                        "amount": 1028206703.2216127
+                    }
+                ]
+            },
+            {
+                "name": "gir somnath district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 1311753,
+                        "amount": 3149910594.0697384
+                    }
+                ]
+            },
+            {
+                "name": "valsad district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 6673719,
+                        "amount": 11065186874.369562
+                    }
+                ]
+            },
+            {
+                "name": "mahisagar district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 634329,
+                        "amount": 1400068532.0580125
+                    }
+                ]
+            },
+            {
+                "name": "sabar kantha district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 3018096,
+                        "amount": 5899494954.572109
+                    }
+                ]
+            },
+            {
+                "name": "tapi district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 1479525,
+                        "amount": 2625677244.2605915
+                    }
+                ]
+            },
+            {
+                "name": "vadodara district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 14343830,
+                        "amount": 22232541228.698692
+                    }
+                ]
+            },
+            {
+                "name": "banas kantha district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 7973644,
+                        "amount": 18279879154.011223
+                    }
+                ]
+            },
+            {
+                "name": "amreli district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 1139593,
+                        "amount": 2619535836.606331
+                    }
+                ]
+            },
+            {
+                "name": "ahmadabad district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 79952986,
+                        "amount": 140746136456.2987
+                    }
+                ]
+            },
+            {
+                "name": "dohad district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 1492215,
+                        "amount": 3303671729.6961093
+                    }
+                ]
+            },
+            {
+                "name": "navsari district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 2558811,
+                        "amount": 4448236738.077925
+                    }
+                ]
+            },
+            {
+                "name": "patan district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 2676329,
+                        "amount": 5505990582.930806
+                    }
+                ]
+            },
+            {
+                "name": "kachchh district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 6493295,
+                        "amount": 13234467234.409916
+                    }
+                ]
+            },
+            {
+                "name": "surendranagar district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 1770045,
+                        "amount": 4155739566.6631675
+                    }
+                ]
+            },
+            {
+                "name": "morbi district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 2000248,
+                        "amount": 5171017148.465556
+                    }
+                ]
+            }
+        ]
+    },
+    "responseTimestamp": 1651127614624
+}

@@ -1,0 +1,100 @@
+{
+    "success": true,
+    "code": "SUCCESS",
+    "data": {
+        "states": null,
+        "districts": [
+            {
+                "entityName": "chandigarh",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 13478173,
+                    "amount": 20559757737.405857
+                }
+            }
+        ],
+        "pincodes": [
+            {
+                "entityName": "160017",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 7220428,
+                    "amount": 11604475020.322536
+                }
+            },
+            {
+                "entityName": "160101",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 761809,
+                    "amount": 1037031826.0963067
+                }
+            },
+            {
+                "entityName": "160008",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 693932,
+                    "amount": 1288932571.5626671
+                }
+            },
+            {
+                "entityName": "160036",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 635601,
+                    "amount": 826669211.5582159
+                }
+            },
+            {
+                "entityName": "160022",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 633386,
+                    "amount": 850977147.2882487
+                }
+            },
+            {
+                "entityName": "160002",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 622789,
+                    "amount": 945416289.7631533
+                }
+            },
+            {
+                "entityName": "160047",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 493183,
+                    "amount": 727112803.9481075
+                }
+            },
+            {
+                "entityName": "160015",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 355036,
+                    "amount": 344038099.04167664
+                }
+            },
+            {
+                "entityName": "160014",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 297078,
+                    "amount": 391653807.81907696
+                }
+            },
+            {
+                "entityName": "160019",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 259522,
+                    "amount": 369679070.93060195
+                }
+            }
+        ]
+    },
+    "responseTimestamp": 1669732369896
+}

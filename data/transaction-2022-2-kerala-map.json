@@ -1,0 +1,149 @@
+{
+    "success": true,
+    "code": "SUCCESS",
+    "data": {
+        "hoverDataList": [
+            {
+                "name": "thiruvananthapuram district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 8942858,
+                        "amount": 13552082447.365555
+                    }
+                ]
+            },
+            {
+                "name": "kasaragod district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 2578012,
+                        "amount": 4383382390.002622
+                    }
+                ]
+            },
+            {
+                "name": "malappuram district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 11218062,
+                        "amount": 15235042406.963661
+                    }
+                ]
+            },
+            {
+                "name": "pathanamthitta district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 2074509,
+                        "amount": 3519862948.5512266
+                    }
+                ]
+            },
+            {
+                "name": "wayanad district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 2984234,
+                        "amount": 4493999118.462679
+                    }
+                ]
+            },
+            {
+                "name": "alappuzha district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 4151240,
+                        "amount": 6503782725.4786625
+                    }
+                ]
+            },
+            {
+                "name": "kozhikode district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 10478852,
+                        "amount": 15005755668.418482
+                    }
+                ]
+            },
+            {
+                "name": "kollam district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 5799455,
+                        "amount": 10109273068.99764
+                    }
+                ]
+            },
+            {
+                "name": "thrissur district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 8767715,
+                        "amount": 13850991972.685724
+                    }
+                ]
+            },
+            {
+                "name": "palakkad district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 4998295,
+                        "amount": 8233196635.528812
+                    }
+                ]
+            },
+            {
+                "name": "kannur district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 5415196,
+                        "amount": 8864093942.922422
+                    }
+                ]
+            },
+            {
+                "name": "kottayam district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 4440370,
+                        "amount": 7095672952.24407
+                    }
+                ]
+            },
+            {
+                "name": "ernakulam district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 32257485,
+                        "amount": 40076176147.54245
+                    }
+                ]
+            },
+            {
+                "name": "idukki district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 2259039,
+                        "amount": 3773017123.960714
+                    }
+                ]
+            }
+        ]
+    },
+    "responseTimestamp": 1669732237359
+}

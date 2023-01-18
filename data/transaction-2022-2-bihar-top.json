@@ -1,0 +1,172 @@
+{
+    "success": true,
+    "code": "SUCCESS",
+    "data": {
+        "states": null,
+        "districts": [
+            {
+                "entityName": "patna",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 119754430,
+                    "amount": 215948701155.29102
+                }
+            },
+            {
+                "entityName": "muzaffarpur",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 16060062,
+                    "amount": 35870055221.49521
+                }
+            },
+            {
+                "entityName": "purbi champaran",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 14735078,
+                    "amount": 32099286217.64873
+                }
+            },
+            {
+                "entityName": "bhagalpur",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 13606084,
+                    "amount": 27138540976.036263
+                }
+            },
+            {
+                "entityName": "siwan",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 13494216,
+                    "amount": 28063144036.921066
+                }
+            },
+            {
+                "entityName": "gaya",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 10986567,
+                    "amount": 25092417405.414814
+                }
+            },
+            {
+                "entityName": "darbhanga",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 10725196,
+                    "amount": 23025583344.149986
+                }
+            },
+            {
+                "entityName": "pashchim champaran",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 10647366,
+                    "amount": 22189359146.473335
+                }
+            },
+            {
+                "entityName": "madhubani",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 9968959,
+                    "amount": 22075739375.545723
+                }
+            },
+            {
+                "entityName": "purnia",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 9889577,
+                    "amount": 21758789746.188175
+                }
+            }
+        ],
+        "pincodes": [
+            {
+                "entityName": "800001",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 90260337,
+                    "amount": 162195041186.36072
+                }
+            },
+            {
+                "entityName": "841226",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 6002826,
+                    "amount": 12042225104.468521
+                }
+            },
+            {
+                "entityName": "812002",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 5661855,
+                    "amount": 10204096684.19675
+                }
+            },
+            {
+                "entityName": "800006",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 4555200,
+                    "amount": 4819612056.01122
+                }
+            },
+            {
+                "entityName": "842002",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 3577125,
+                    "amount": 7087839557.170109
+                }
+            },
+            {
+                "entityName": "845401",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 3415935,
+                    "amount": 6530583694.275953
+                }
+            },
+            {
+                "entityName": "800020",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 3287150,
+                    "amount": 5727543832.128673
+                }
+            },
+            {
+                "entityName": "854301",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 3017014,
+                    "amount": 5476021343.766986
+                }
+            },
+            {
+                "entityName": "845438",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 2847567,
+                    "amount": 5431983554.738285
+                }
+            },
+            {
+                "entityName": "846004",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 2555939,
+                    "amount": 4902490990.381883
+                }
+            }
+        ]
+    },
+    "responseTimestamp": 1669732236913
+}

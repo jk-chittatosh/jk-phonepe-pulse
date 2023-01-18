@@ -1,0 +1,172 @@
+{
+    "success": true,
+    "code": "SUCCESS",
+    "data": {
+        "states": null,
+        "districts": [
+            {
+                "entityName": "ahmadabad",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 96453555,
+                    "amount": 161506106645.9494
+                }
+            },
+            {
+                "entityName": "surat",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 37371820,
+                    "amount": 68525386888.440254
+                }
+            },
+            {
+                "entityName": "vadodara",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 16566055,
+                    "amount": 24927078678.274376
+                }
+            },
+            {
+                "entityName": "gandhinagar",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 10158506,
+                    "amount": 16650584409.353096
+                }
+            },
+            {
+                "entityName": "banas kantha",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 9732655,
+                    "amount": 20605533611.378273
+                }
+            },
+            {
+                "entityName": "bharuch",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 8898927,
+                    "amount": 13524403306.877403
+                }
+            },
+            {
+                "entityName": "valsad",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 8033358,
+                    "amount": 12554813235.049372
+                }
+            },
+            {
+                "entityName": "kachchh",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 7934471,
+                    "amount": 15334005512.230762
+                }
+            },
+            {
+                "entityName": "mahesana",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 6831581,
+                    "amount": 13686497405.843655
+                }
+            },
+            {
+                "entityName": "rajkot",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 6063252,
+                    "amount": 12629937169.82262
+                }
+            }
+        ],
+        "pincodes": [
+            {
+                "entityName": "380001",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 52753664,
+                    "amount": 84432798058.52104
+                }
+            },
+            {
+                "entityName": "395003",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 10672645,
+                    "amount": 18758395287.861027
+                }
+            },
+            {
+                "entityName": "390001",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 3369020,
+                    "amount": 5305843470.404314
+                }
+            },
+            {
+                "entityName": "394210",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 2777449,
+                    "amount": 4898335956.672746
+                }
+            },
+            {
+                "entityName": "396191",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 2335854,
+                    "amount": 3880649447.3451133
+                }
+            },
+            {
+                "entityName": "395006",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 2324015,
+                    "amount": 5379127575.200686
+                }
+            },
+            {
+                "entityName": "395010",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 2256180,
+                    "amount": 5670502737.641578
+                }
+            },
+            {
+                "entityName": "385535",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 2022153,
+                    "amount": 4444364110.485488
+                }
+            },
+            {
+                "entityName": "385001",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 1838275,
+                    "amount": 3754171188.3705053
+                }
+            },
+            {
+                "entityName": "382350",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 1836488,
+                    "amount": 4063455499.5444765
+                }
+            }
+        ]
+    },
+    "responseTimestamp": 1669732246798
+}

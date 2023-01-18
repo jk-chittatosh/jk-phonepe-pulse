@@ -1,0 +1,124 @@
+{
+    "success": true,
+    "code": "SUCCESS",
+    "data": {
+        "states": null,
+        "districts": [
+            {
+                "entityName": "puducherry",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 7617058,
+                    "amount": 11822245859.332417
+                }
+            },
+            {
+                "entityName": "yanam",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 481753,
+                    "amount": 963312236.3090451
+                }
+            },
+            {
+                "entityName": "karaikal",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 417480,
+                    "amount": 788877561.2769251
+                }
+            },
+            {
+                "entityName": "mahe",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 127396,
+                    "amount": 204309598.8505104
+                }
+            }
+        ],
+        "pincodes": [
+            {
+                "entityName": "605002",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 3234467,
+                    "amount": 5237678359.690546
+                }
+            },
+            {
+                "entityName": "605110",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 554270,
+                    "amount": 874348179.6776617
+                }
+            },
+            {
+                "entityName": "533464",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 481753,
+                    "amount": 963312236.3090451
+                }
+            },
+            {
+                "entityName": "605107",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 395111,
+                    "amount": 586804758.4358172
+                }
+            },
+            {
+                "entityName": "605001",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 383977,
+                    "amount": 513948511.5165339
+                }
+            },
+            {
+                "entityName": "605004",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 378032,
+                    "amount": 655796309.2698936
+                }
+            },
+            {
+                "entityName": "605008",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 369960,
+                    "amount": 580134785.7898461
+                }
+            },
+            {
+                "entityName": "605009",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 345483,
+                    "amount": 530600617.7152571
+                }
+            },
+            {
+                "entityName": "605011",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 330790,
+                    "amount": 543300710.4714139
+                }
+            },
+            {
+                "entityName": "605007",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 262208,
+                    "amount": 391506436.03183925
+                }
+            }
+        ]
+    },
+    "responseTimestamp": 1669732201810
+}

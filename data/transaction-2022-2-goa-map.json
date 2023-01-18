@@ -1,0 +1,29 @@
+{
+    "success": true,
+    "code": "SUCCESS",
+    "data": {
+        "hoverDataList": [
+            {
+                "name": "north goa district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 9999773,
+                        "amount": 16484842033.028082
+                    }
+                ]
+            },
+            {
+                "name": "south goa district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 4216281,
+                        "amount": 6388195726.492123
+                    }
+                ]
+            }
+        ]
+    },
+    "responseTimestamp": 1669732255381
+}

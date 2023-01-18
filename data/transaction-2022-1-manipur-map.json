@@ -1,0 +1,169 @@
+{
+    "success": true,
+    "code": "SUCCESS",
+    "data": {
+        "hoverDataList": [
+            {
+                "name": "kangpokpi district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 120614,
+                        "amount": 361422857.4778744
+                    }
+                ]
+            },
+            {
+                "name": "noney district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 21683,
+                        "amount": 81975537.65019315
+                    }
+                ]
+            },
+            {
+                "name": "imphal east district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 298053,
+                        "amount": 926298622.7916505
+                    }
+                ]
+            },
+            {
+                "name": "thoubal district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 159443,
+                        "amount": 465999965.9324683
+                    }
+                ]
+            },
+            {
+                "name": "kakching district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 45714,
+                        "amount": 129009720.36301753
+                    }
+                ]
+            },
+            {
+                "name": "jiribam district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 33214,
+                        "amount": 106952141.35335837
+                    }
+                ]
+            },
+            {
+                "name": "ukhrul district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 45977,
+                        "amount": 163211543.8876433
+                    }
+                ]
+            },
+            {
+                "name": "tamenglong district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 53325,
+                        "amount": 182059187.8775179
+                    }
+                ]
+            },
+            {
+                "name": "kamjong district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 10050,
+                        "amount": 38396927.57850355
+                    }
+                ]
+            },
+            {
+                "name": "chandel district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 46964,
+                        "amount": 156821048.33140564
+                    }
+                ]
+            },
+            {
+                "name": "bishnupur district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 129775,
+                        "amount": 410979761.59592944
+                    }
+                ]
+            },
+            {
+                "name": "senapati district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 41815,
+                        "amount": 150533112.28282666
+                    }
+                ]
+            },
+            {
+                "name": "pherzawl district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 3014,
+                        "amount": 6196514.84182024
+                    }
+                ]
+            },
+            {
+                "name": "churachandpur district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 132079,
+                        "amount": 478282953.14129984
+                    }
+                ]
+            },
+            {
+                "name": "tengnoupal district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 42399,
+                        "amount": 154983910.95505172
+                    }
+                ]
+            },
+            {
+                "name": "imphal west district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 4129560,
+                        "amount": 10331377272.313238
+                    }
+                ]
+            }
+        ]
+    },
+    "responseTimestamp": 1651127582523
+}

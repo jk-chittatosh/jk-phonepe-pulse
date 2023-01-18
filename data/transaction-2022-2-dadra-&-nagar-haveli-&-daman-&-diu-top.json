@@ -1,0 +1,108 @@
+{
+    "success": true,
+    "code": "SUCCESS",
+    "data": {
+        "states": null,
+        "districts": [
+            {
+                "entityName": "dadra and nagar haveli",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 3705529,
+                    "amount": 4384666145.001483
+                }
+            },
+            {
+                "entityName": "daman",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 1923407,
+                    "amount": 2321672075.29422
+                }
+            },
+            {
+                "entityName": "diu",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 130835,
+                    "amount": 288821560.5151377
+                }
+            }
+        ],
+        "pincodes": [
+            {
+                "entityName": "396230",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 3036361,
+                    "amount": 3510648290.549227
+                }
+            },
+            {
+                "entityName": "396210",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 1265263,
+                    "amount": 1555471670.5106633
+                }
+            },
+            {
+                "entityName": "396235",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 669168,
+                    "amount": 874017854.4522531
+                }
+            },
+            {
+                "entityName": "396215",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 624136,
+                    "amount": 726057284.614956
+                }
+            },
+            {
+                "entityName": "362520",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 86725,
+                    "amount": 176999274.61440217
+                }
+            },
+            {
+                "entityName": "396220",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 34008,
+                    "amount": 40143120.16860029
+                }
+            },
+            {
+                "entityName": "362571",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 29535,
+                    "amount": 78134342.57242805
+                }
+            },
+            {
+                "entityName": "362540",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 12175,
+                    "amount": 27561948.540993102
+                }
+            },
+            {
+                "entityName": "362570",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 2400,
+                    "amount": 6125994.787314363
+                }
+            }
+        ]
+    },
+    "responseTimestamp": 1669732219092
+}

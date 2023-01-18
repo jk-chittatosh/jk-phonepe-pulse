@@ -1,0 +1,172 @@
+{
+    "success": true,
+    "code": "SUCCESS",
+    "data": {
+        "states": null,
+        "districts": [
+            {
+                "entityName": "gurugram",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 79880852,
+                    "amount": 92145454120.45724
+                }
+            },
+            {
+                "entityName": "faridabad",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 30409719,
+                    "amount": 48406473821.004944
+                }
+            },
+            {
+                "entityName": "sonipat",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 11943138,
+                    "amount": 22987659569.928093
+                }
+            },
+            {
+                "entityName": "rewari",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 11224593,
+                    "amount": 19046645607.857338
+                }
+            },
+            {
+                "entityName": "panipat",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 10820296,
+                    "amount": 21066063900.647213
+                }
+            },
+            {
+                "entityName": "mewat",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 10609222,
+                    "amount": 20575618595.50345
+                }
+            },
+            {
+                "entityName": "palwal",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 9782307,
+                    "amount": 17323076797.706825
+                }
+            },
+            {
+                "entityName": "hisar",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 8798889,
+                    "amount": 20864338832.46772
+                }
+            },
+            {
+                "entityName": "rohtak",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 7714114,
+                    "amount": 16685032554.576132
+                }
+            },
+            {
+                "entityName": "karnal",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 7462000,
+                    "amount": 14355989091.566263
+                }
+            }
+        ],
+        "pincodes": [
+            {
+                "entityName": "122006",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 11491350,
+                    "amount": 16033485783.78646
+                }
+            },
+            {
+                "entityName": "122001",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 10746148,
+                    "amount": 13340124680.33358
+                }
+            },
+            {
+                "entityName": "121004",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 7541491,
+                    "amount": 11635177821.64284
+                }
+            },
+            {
+                "entityName": "122002",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 7526684,
+                    "amount": 7647480688.930363
+                }
+            },
+            {
+                "entityName": "132103",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 6745204,
+                    "amount": 12816736357.27605
+                }
+            },
+            {
+                "entityName": "131001",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 6009247,
+                    "amount": 11460764747.702406
+                }
+            },
+            {
+                "entityName": "121002",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 5591996,
+                    "amount": 10542237339.944075
+                }
+            },
+            {
+                "entityName": "121003",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 5492258,
+                    "amount": 7581776677.968283
+                }
+            },
+            {
+                "entityName": "122004",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 5362365,
+                    "amount": 5206030457.728907
+                }
+            },
+            {
+                "entityName": "124001",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 5115219,
+                    "amount": 10455337928.87967
+                }
+            }
+        ]
+    },
+    "responseTimestamp": 1669732220886
+}

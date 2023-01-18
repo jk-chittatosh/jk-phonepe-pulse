@@ -1,0 +1,119 @@
+{
+    "success": true,
+    "code": "SUCCESS",
+    "data": {
+        "hoverDataList": [
+            {
+                "name": "mon district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 68148,
+                        "amount": 217924271.27222455
+                    }
+                ]
+            },
+            {
+                "name": "phek district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 45816,
+                        "amount": 151822055.76958296
+                    }
+                ]
+            },
+            {
+                "name": "longleng district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 15346,
+                        "amount": 48028740.50388672
+                    }
+                ]
+            },
+            {
+                "name": "mokokchung district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 81244,
+                        "amount": 249065125.49735782
+                    }
+                ]
+            },
+            {
+                "name": "kiphire district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 19352,
+                        "amount": 63372092.9637181
+                    }
+                ]
+            },
+            {
+                "name": "kohima district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 390575,
+                        "amount": 1084969826.96707
+                    }
+                ]
+            },
+            {
+                "name": "tuensang district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 44657,
+                        "amount": 158205190.5951551
+                    }
+                ]
+            },
+            {
+                "name": "peren district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 24443,
+                        "amount": 79886712.62073797
+                    }
+                ]
+            },
+            {
+                "name": "dimapur district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 1094753,
+                        "amount": 3023858206.1614122
+                    }
+                ]
+            },
+            {
+                "name": "zunheboto district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 30504,
+                        "amount": 94302709.04675612
+                    }
+                ]
+            },
+            {
+                "name": "wokha district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 79275,
+                        "amount": 192965563.65293062
+                    }
+                ]
+            }
+        ]
+    },
+    "responseTimestamp": 1669732378630
+}

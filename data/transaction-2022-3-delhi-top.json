@@ -1,0 +1,172 @@
+{
+    "success": true,
+    "code": "SUCCESS",
+    "data": {
+        "states": null,
+        "districts": [
+            {
+                "entityName": "central delhi",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 243139962,
+                    "amount": 327191972497.867
+                }
+            },
+            {
+                "entityName": "new delhi",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 58178476,
+                    "amount": 76558260276.67705
+                }
+            },
+            {
+                "entityName": "west",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 30595250,
+                    "amount": 52638495087.749954
+                }
+            },
+            {
+                "entityName": "south east delhi",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 30215862,
+                    "amount": 40627500625.401535
+                }
+            },
+            {
+                "entityName": "east",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 21104584,
+                    "amount": 28881717613.549664
+                }
+            },
+            {
+                "entityName": "north west",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 18316480,
+                    "amount": 32675014921.771603
+                }
+            },
+            {
+                "entityName": "south",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 18234782,
+                    "amount": 21732528705.790974
+                }
+            },
+            {
+                "entityName": "north",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 18232076,
+                    "amount": 29812600679.07141
+                }
+            },
+            {
+                "entityName": "south west",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 17276601,
+                    "amount": 26324661266.56317
+                }
+            },
+            {
+                "entityName": "shahdara",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 10220528,
+                    "amount": 21361296110.510616
+                }
+            }
+        ],
+        "pincodes": [
+            {
+                "entityName": "110006",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 222465526,
+                    "amount": 294132832922.7636
+                }
+            },
+            {
+                "entityName": "110001",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 28526787,
+                    "amount": 37616195388.485214
+                }
+            },
+            {
+                "entityName": "110011",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 8581845,
+                    "amount": 11865281418.909304
+                }
+            },
+            {
+                "entityName": "110059",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 7992943,
+                    "amount": 13036442355.379208
+                }
+            },
+            {
+                "entityName": "110092",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 7839965,
+                    "amount": 10701975487.01072
+                }
+            },
+            {
+                "entityName": "110091",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 7698720,
+                    "amount": 10627800097.635551
+                }
+            },
+            {
+                "entityName": "110041",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 6489117,
+                    "amount": 11438042921.96499
+                }
+            },
+            {
+                "entityName": "110044",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 6061206,
+                    "amount": 8284650031.080469
+                }
+            },
+            {
+                "entityName": "110096",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 5849855,
+                    "amount": 7406065685.155811
+                }
+            },
+            {
+                "entityName": "110025",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 5742673,
+                    "amount": 7179824596.728046
+                }
+            }
+        ]
+    },
+    "responseTimestamp": 1669732392299
+}

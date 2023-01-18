@@ -1,0 +1,139 @@
+{
+    "success": true,
+    "code": "SUCCESS",
+    "data": {
+        "hoverDataList": [
+            {
+                "name": "bageshwar district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 240815,
+                        "amount": 464249473.4222708
+                    }
+                ]
+            },
+            {
+                "name": "udham singh nagar district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 5878926,
+                        "amount": 10009445962.437685
+                    }
+                ]
+            },
+            {
+                "name": "haridwar district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 7982968,
+                        "amount": 12739141532.519213
+                    }
+                ]
+            },
+            {
+                "name": "champawat district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 307080,
+                        "amount": 618157667.8282931
+                    }
+                ]
+            },
+            {
+                "name": "nainital district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 3419287,
+                        "amount": 5973753416.613321
+                    }
+                ]
+            },
+            {
+                "name": "dehradun district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 22257700,
+                        "amount": 33123635654.16364
+                    }
+                ]
+            },
+            {
+                "name": "chamoli district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 447942,
+                        "amount": 908267962.1925865
+                    }
+                ]
+            },
+            {
+                "name": "almora district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 615373,
+                        "amount": 1114809944.882173
+                    }
+                ]
+            },
+            {
+                "name": "uttarkashi district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 354038,
+                        "amount": 690101594.2170823
+                    }
+                ]
+            },
+            {
+                "name": "pithoragarh district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 513359,
+                        "amount": 1077070807.370165
+                    }
+                ]
+            },
+            {
+                "name": "rudraprayag district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 254813,
+                        "amount": 498507056.829461
+                    }
+                ]
+            },
+            {
+                "name": "pauri garhwal district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 1340407,
+                        "amount": 2160205589.4174557
+                    }
+                ]
+            },
+            {
+                "name": "tehri garhwal district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 948064,
+                        "amount": 1601435838.181318
+                    }
+                ]
+            }
+        ]
+    },
+    "responseTimestamp": 1651127629280
+}

@@ -1,0 +1,39 @@
+{
+    "success": true,
+    "code": "SUCCESS",
+    "data": {
+        "hoverDataList": [
+            {
+                "name": "north and middle andaman district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 72573,
+                        "amount": 195693167.78757268
+                    }
+                ]
+            },
+            {
+                "name": "south andaman district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 954875,
+                        "amount": 2357326563.362071
+                    }
+                ]
+            },
+            {
+                "name": "nicobars district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 43769,
+                        "amount": 132900618.93062323
+                    }
+                ]
+            }
+        ]
+    },
+    "responseTimestamp": 1669732220090
+}

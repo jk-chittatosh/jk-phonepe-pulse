@@ -1,0 +1,172 @@
+{
+    "success": true,
+    "code": "SUCCESS",
+    "data": {
+        "states": null,
+        "districts": [
+            {
+                "entityName": "jaipur",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 314511010,
+                    "amount": 497492495896.22046
+                }
+            },
+            {
+                "entityName": "alwar",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 31488094,
+                    "amount": 50746151172.86586
+                }
+            },
+            {
+                "entityName": "jodhpur",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 31463295,
+                    "amount": 61614349060.01108
+                }
+            },
+            {
+                "entityName": "kota",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 22930803,
+                    "amount": 36055197912.070015
+                }
+            },
+            {
+                "entityName": "ajmer",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 20900496,
+                    "amount": 40715583331.30888
+                }
+            },
+            {
+                "entityName": "bhilwara",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 20131391,
+                    "amount": 38273076738.35588
+                }
+            },
+            {
+                "entityName": "sikar",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 19932783,
+                    "amount": 40102076741.92372
+                }
+            },
+            {
+                "entityName": "udaipur",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 15896129,
+                    "amount": 24912652507.999565
+                }
+            },
+            {
+                "entityName": "nagaur",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 14631304,
+                    "amount": 33408260595.26596
+                }
+            },
+            {
+                "entityName": "bikaner",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 13694139,
+                    "amount": 26087476960.412987
+                }
+            }
+        ],
+        "pincodes": [
+            {
+                "entityName": "302016",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 181570316,
+                    "amount": 290408785688.94006
+                }
+            },
+            {
+                "entityName": "302012",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 9813239,
+                    "amount": 17025818434.001835
+                }
+            },
+            {
+                "entityName": "302020",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 8308435,
+                    "amount": 11317574894.199295
+                }
+            },
+            {
+                "entityName": "302015",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 7973666,
+                    "amount": 8222092235.564779
+                }
+            },
+            {
+                "entityName": "302029",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 7814739,
+                    "amount": 11969825649.264526
+                }
+            },
+            {
+                "entityName": "342003",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 7781332,
+                    "amount": 13788621735.334116
+                }
+            },
+            {
+                "entityName": "311001",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 7375429,
+                    "amount": 13931581131.209145
+                }
+            },
+            {
+                "entityName": "302017",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 6520767,
+                    "amount": 8076295073.4123745
+                }
+            },
+            {
+                "entityName": "302022",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 5938616,
+                    "amount": 6632582851.473118
+                }
+            },
+            {
+                "entityName": "324006",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 5916640,
+                    "amount": 10390818560.320557
+                }
+            }
+        ]
+    },
+    "responseTimestamp": 1669732222155
+}

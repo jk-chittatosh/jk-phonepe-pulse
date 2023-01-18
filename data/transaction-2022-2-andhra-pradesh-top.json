@@ -1,0 +1,172 @@
+{
+    "success": true,
+    "code": "SUCCESS",
+    "data": {
+        "states": null,
+        "districts": [
+            {
+                "entityName": "visakhapatnam",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 101387402,
+                    "amount": 193242841582.14282
+                }
+            },
+            {
+                "entityName": "krishna",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 73525814,
+                    "amount": 163997729295.93127
+                }
+            },
+            {
+                "entityName": "chittoor",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 67507661,
+                    "amount": 136435445124.75615
+                }
+            },
+            {
+                "entityName": "guntur",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 66315749,
+                    "amount": 147098141568.76227
+                }
+            },
+            {
+                "entityName": "east godavari",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 62072845,
+                    "amount": 135531452997.6391
+                }
+            },
+            {
+                "entityName": "spsr nellore",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 54838708,
+                    "amount": 121941082043.49483
+                }
+            },
+            {
+                "entityName": "anantapur",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 46099366,
+                    "amount": 102138758015.76915
+                }
+            },
+            {
+                "entityName": "west godavari",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 44409239,
+                    "amount": 107973244960.42824
+                }
+            },
+            {
+                "entityName": "kurnool",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 40165692,
+                    "amount": 92409350855.502
+                }
+            },
+            {
+                "entityName": "prakasam",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 36163507,
+                    "amount": 90435082545.97768
+                }
+            }
+        ],
+        "pincodes": [
+            {
+                "entityName": "524002",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 18822839,
+                    "amount": 40556750377.6809
+                }
+            },
+            {
+                "entityName": "530026",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 12256092,
+                    "amount": 29600523030.089485
+                }
+            },
+            {
+                "entityName": "517501",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 9320394,
+                    "amount": 17071503296.033054
+                }
+            },
+            {
+                "entityName": "517507",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 7667416,
+                    "amount": 14863715364.820652
+                }
+            },
+            {
+                "entityName": "520002",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 7584902,
+                    "amount": 19447767871.79056
+                }
+            },
+            {
+                "entityName": "530016",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 6470271,
+                    "amount": 11522114399.303429
+                }
+            },
+            {
+                "entityName": "515001",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 6291639,
+                    "amount": 12847256630.386038
+                }
+            },
+            {
+                "entityName": "522001",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 6073875,
+                    "amount": 16041957319.95133
+                }
+            },
+            {
+                "entityName": "520010",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 5301338,
+                    "amount": 10747157085.983915
+                }
+            },
+            {
+                "entityName": "516001",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 4927880,
+                    "amount": 12452111307.590088
+                }
+            }
+        ]
+    },
+    "responseTimestamp": 1669732210935
+}

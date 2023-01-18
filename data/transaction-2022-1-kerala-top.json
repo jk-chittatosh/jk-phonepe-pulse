@@ -1,0 +1,172 @@
+{
+    "success": true,
+    "code": "SUCCESS",
+    "data": {
+        "states": null,
+        "districts": [
+            {
+                "entityName": "ernakulam",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 29451475,
+                    "amount": 36915318572.07093
+                }
+            },
+            {
+                "entityName": "malappuram",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 10270093,
+                    "amount": 13968886082.9426
+                }
+            },
+            {
+                "entityName": "kozhikode",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 9526680,
+                    "amount": 13732159882.74073
+                }
+            },
+            {
+                "entityName": "thiruvananthapuram",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 7747326,
+                    "amount": 12106537679.278355
+                }
+            },
+            {
+                "entityName": "thrissur",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 7612460,
+                    "amount": 12265599938.768522
+                }
+            },
+            {
+                "entityName": "kollam",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 4851496,
+                    "amount": 8628660586.960697
+                }
+            },
+            {
+                "entityName": "kannur",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 4837076,
+                    "amount": 7882293599.260639
+                }
+            },
+            {
+                "entityName": "palakkad",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 4504996,
+                    "amount": 7445457072.7399845
+                }
+            },
+            {
+                "entityName": "kottayam",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 4029330,
+                    "amount": 6642441538.163084
+                }
+            },
+            {
+                "entityName": "alappuzha",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 3687088,
+                    "amount": 5795828219.423044
+                }
+            }
+        ],
+        "pincodes": [
+            {
+                "entityName": "682016",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 10668279,
+                    "amount": 13096227726.701626
+                }
+            },
+            {
+                "entityName": "682003",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 3301409,
+                    "amount": 4429522355.564033
+                }
+            },
+            {
+                "entityName": "680001",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 2665641,
+                    "amount": 4519430336.875703
+                }
+            },
+            {
+                "entityName": "676504",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 1593062,
+                    "amount": 1955707695.502362
+                }
+            },
+            {
+                "entityName": "673032",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 1344633,
+                    "amount": 2002683741.5081577
+                }
+            },
+            {
+                "entityName": "686001",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 963050,
+                    "amount": 1567012323.1801991
+                }
+            },
+            {
+                "entityName": "695001",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 908269,
+                    "amount": 1693134508.228512
+                }
+            },
+            {
+                "entityName": "691001",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 826505,
+                    "amount": 1847627074.4818888
+                }
+            },
+            {
+                "entityName": "682042",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 771918,
+                    "amount": 759319663.4586056
+                }
+            },
+            {
+                "entityName": "682024",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 678548,
+                    "amount": 664616770.8666039
+                }
+            }
+        ]
+    },
+    "responseTimestamp": 1651127605745
+}

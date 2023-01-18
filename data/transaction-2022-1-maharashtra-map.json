@@ -1,0 +1,369 @@
+{
+    "success": true,
+    "code": "SUCCESS",
+    "data": {
+        "hoverDataList": [
+            {
+                "name": "jalgaon district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 17757988,
+                        "amount": 30555178757.005997
+                    }
+                ]
+            },
+            {
+                "name": "latur district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 15356835,
+                        "amount": 23856260979.2032
+                    }
+                ]
+            },
+            {
+                "name": "thane district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 66420329,
+                        "amount": 91604299445.99771
+                    }
+                ]
+            },
+            {
+                "name": "bhandara district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 3461274,
+                        "amount": 6404864501.433441
+                    }
+                ]
+            },
+            {
+                "name": "nandurbar district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 3622329,
+                        "amount": 7060445513.077811
+                    }
+                ]
+            },
+            {
+                "name": "chandrapur district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 8245169,
+                        "amount": 12334491815.90076
+                    }
+                ]
+            },
+            {
+                "name": "kolhapur district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 17433041,
+                        "amount": 26386491968.922462
+                    }
+                ]
+            },
+            {
+                "name": "solapur district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 35130037,
+                        "amount": 62436627060.52482
+                    }
+                ]
+            },
+            {
+                "name": "mumbai district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 17957610,
+                        "amount": 30021552307.219616
+                    }
+                ]
+            },
+            {
+                "name": "sindhudurg district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 1428957,
+                        "amount": 2551979373.6666465
+                    }
+                ]
+            },
+            {
+                "name": "dhule district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 8541986,
+                        "amount": 14920655481.690989
+                    }
+                ]
+            },
+            {
+                "name": "wardha district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 4351919,
+                        "amount": 6817775708.436135
+                    }
+                ]
+            },
+            {
+                "name": "parbhani district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 10320054,
+                        "amount": 15871955896.827192
+                    }
+                ]
+            },
+            {
+                "name": "mumbai suburban district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 104595313,
+                        "amount": 148080835860.6061
+                    }
+                ]
+            },
+            {
+                "name": "hingoli district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 3618468,
+                        "amount": 6309169659.7158165
+                    }
+                ]
+            },
+            {
+                "name": "ratnagiri district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 2707601,
+                        "amount": 4494723116.141416
+                    }
+                ]
+            },
+            {
+                "name": "nanded district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 14832112,
+                        "amount": 26944854915.835846
+                    }
+                ]
+            },
+            {
+                "name": "osmanabad district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 9757272,
+                        "amount": 17024101045.584564
+                    }
+                ]
+            },
+            {
+                "name": "nagpur district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 43072958,
+                        "amount": 63065806665.247505
+                    }
+                ]
+            },
+            {
+                "name": "buldhana district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 11747608,
+                        "amount": 20901275712.18042
+                    }
+                ]
+            },
+            {
+                "name": "nashik district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 59914404,
+                        "amount": 89903593917.99501
+                    }
+                ]
+            },
+            {
+                "name": "akola district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 6689313,
+                        "amount": 10723857464.538498
+                    }
+                ]
+            },
+            {
+                "name": "yavatmal district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 7555408,
+                        "amount": 12885201280.952847
+                    }
+                ]
+            },
+            {
+                "name": "aurangabad district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 48288544,
+                        "amount": 66140008400.38048
+                    }
+                ]
+            },
+            {
+                "name": "amravati district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 12901295,
+                        "amount": 21513429781.136066
+                    }
+                ]
+            },
+            {
+                "name": "washim district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 73700274,
+                        "amount": 136398563399.82826
+                    }
+                ]
+            },
+            {
+                "name": "sangli district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 13407114,
+                        "amount": 22867674942.154476
+                    }
+                ]
+            },
+            {
+                "name": "gadchiroli district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 2430940,
+                        "amount": 4667653819.06547
+                    }
+                ]
+            },
+            {
+                "name": "raigad district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 22836136,
+                        "amount": 30642123149.62334
+                    }
+                ]
+            },
+            {
+                "name": "palghar district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 17329583,
+                        "amount": 24541321852.48381
+                    }
+                ]
+            },
+            {
+                "name": "jalna district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 9770142,
+                        "amount": 16932733608.18157
+                    }
+                ]
+            },
+            {
+                "name": "gondia district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 3447926,
+                        "amount": 6533829706.610294
+                    }
+                ]
+            },
+            {
+                "name": "ahmednagar district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 35927347,
+                        "amount": 61917805949.94818
+                    }
+                ]
+            },
+            {
+                "name": "pune district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 424149132,
+                        "amount": 508475101454.5798
+                    }
+                ]
+            },
+            {
+                "name": "beed district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 12794151,
+                        "amount": 24332097862.902313
+                    }
+                ]
+            },
+            {
+                "name": "satara district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 18005869,
+                        "amount": 25280931605.5211
+                    }
+                ]
+            }
+        ]
+    },
+    "responseTimestamp": 1651127583459
+}

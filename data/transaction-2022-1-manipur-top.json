@@ -1,0 +1,172 @@
+{
+    "success": true,
+    "code": "SUCCESS",
+    "data": {
+        "states": null,
+        "districts": [
+            {
+                "entityName": "imphal west",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 4129560,
+                    "amount": 10331377272.313238
+                }
+            },
+            {
+                "entityName": "imphal east",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 298053,
+                    "amount": 926298622.7916505
+                }
+            },
+            {
+                "entityName": "thoubal",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 159443,
+                    "amount": 465999965.9324683
+                }
+            },
+            {
+                "entityName": "churachandpur",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 132079,
+                    "amount": 478282953.1412998
+                }
+            },
+            {
+                "entityName": "bishnupur",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 129775,
+                    "amount": 410979761.59592944
+                }
+            },
+            {
+                "entityName": "kangpokpi",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 120614,
+                    "amount": 361422857.4778744
+                }
+            },
+            {
+                "entityName": "tamenglong",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 53325,
+                    "amount": 182059187.8775179
+                }
+            },
+            {
+                "entityName": "chandel",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 46964,
+                    "amount": 156821048.3314056
+                }
+            },
+            {
+                "entityName": "ukhrul",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 45977,
+                    "amount": 163211543.8876433
+                }
+            },
+            {
+                "entityName": "kakching",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 45714,
+                    "amount": 129009720.36301751
+                }
+            }
+        ],
+        "pincodes": [
+            {
+                "entityName": "795004",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 3869356,
+                    "amount": 9537639096.801764
+                }
+            },
+            {
+                "entityName": "795001",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 87098,
+                    "amount": 289715782.8274056
+                }
+            },
+            {
+                "entityName": "795002",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 69943,
+                    "amount": 219152370.99107608
+                }
+            },
+            {
+                "entityName": "795138",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 69278,
+                    "amount": 217457160.92532128
+                }
+            },
+            {
+                "entityName": "795148",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 67820,
+                    "amount": 179456880.50273237
+                }
+            },
+            {
+                "entityName": "795133",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 64420,
+                    "amount": 222493009.00146547
+                }
+            },
+            {
+                "entityName": "795128",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 58936,
+                    "amount": 213716654.99928838
+                }
+            },
+            {
+                "entityName": "795107",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 56033,
+                    "amount": 164219914.71451503
+                }
+            },
+            {
+                "entityName": "795149",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 50677,
+                    "amount": 172077929.79922795
+                }
+            },
+            {
+                "entityName": "795130",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 47315,
+                    "amount": 138828052.68058753
+                }
+            }
+        ]
+    },
+    "responseTimestamp": 1651127582646
+}

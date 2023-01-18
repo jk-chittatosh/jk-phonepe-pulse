@@ -1,0 +1,239 @@
+{
+    "success": true,
+    "code": "SUCCESS",
+    "data": {
+        "hoverDataList": [
+            {
+                "name": "south twenty four parganas district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 11243229,
+                        "amount": 26965356873.85303
+                    }
+                ]
+            },
+            {
+                "name": "purba bardhaman district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 6777604,
+                        "amount": 15081107758.687084
+                    }
+                ]
+            },
+            {
+                "name": "uttar dinajpur district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 4441594,
+                        "amount": 11523296688.425028
+                    }
+                ]
+            },
+            {
+                "name": "kalimpong district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 273057,
+                        "amount": 682480114.6705194
+                    }
+                ]
+            },
+            {
+                "name": "murshidabad district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 15588410,
+                        "amount": 41140892341.13234
+                    }
+                ]
+            },
+            {
+                "name": "paschim medinipur district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 9156926,
+                        "amount": 20055779613.652466
+                    }
+                ]
+            },
+            {
+                "name": "dakshin dinajpur district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 1823888,
+                        "amount": 4255877779.082657
+                    }
+                ]
+            },
+            {
+                "name": "jalpaiguri district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 2650569,
+                        "amount": 6055463671.687082
+                    }
+                ]
+            },
+            {
+                "name": "purulia district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 3655572,
+                        "amount": 5836006366.520155
+                    }
+                ]
+            },
+            {
+                "name": "north twenty four parganas district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 31930105,
+                        "amount": 59661500584.75365
+                    }
+                ]
+            },
+            {
+                "name": "bankura district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 4874077,
+                        "amount": 8812235253.790693
+                    }
+                ]
+            },
+            {
+                "name": "jhargram district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 1121268,
+                        "amount": 2198171070.038257
+                    }
+                ]
+            },
+            {
+                "name": "howrah district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 23702322,
+                        "amount": 44110902969.5602
+                    }
+                ]
+            },
+            {
+                "name": "hooghly district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 10497390,
+                        "amount": 21694250432.038437
+                    }
+                ]
+            },
+            {
+                "name": "kolkata district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 76392752,
+                        "amount": 155417783792.6444
+                    }
+                ]
+            },
+            {
+                "name": "koch bihar district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 3802460,
+                        "amount": 8085185091.073849
+                    }
+                ]
+            },
+            {
+                "name": "alipurduar district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 1888984,
+                        "amount": 4323258066.140034
+                    }
+                ]
+            },
+            {
+                "name": "paschim bardhaman district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 9783656,
+                        "amount": 17440405834.011703
+                    }
+                ]
+            },
+            {
+                "name": "nadia district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 9791890,
+                        "amount": 22740547217.901745
+                    }
+                ]
+            },
+            {
+                "name": "birbhum district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 5000218,
+                        "amount": 11385995733.932861
+                    }
+                ]
+            },
+            {
+                "name": "purba medinipur district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 11506248,
+                        "amount": 28979875250.478428
+                    }
+                ]
+            },
+            {
+                "name": "maldah district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 7832385,
+                        "amount": 19619492748.51209
+                    }
+                ]
+            },
+            {
+                "name": "darjiling district",
+                "metric": [
+                    {
+                        "type": "TOTAL",
+                        "count": 6770488,
+                        "amount": 15360797956.977024
+                    }
+                ]
+            }
+        ]
+    },
+    "responseTimestamp": 1651127613798
+}

@@ -1,0 +1,172 @@
+{
+    "success": true,
+    "code": "SUCCESS",
+    "data": {
+        "states": null,
+        "districts": [
+            {
+                "entityName": "papum pare",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 1163726,
+                    "amount": 2909248438.629796
+                }
+            },
+            {
+                "entityName": "west kameng",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 240672,
+                    "amount": 705607894.004217
+                }
+            },
+            {
+                "entityName": "east siang",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 201945,
+                    "amount": 501600929.04419017
+                }
+            },
+            {
+                "entityName": "changlang",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 171494,
+                    "amount": 490549428.7793704
+                }
+            },
+            {
+                "entityName": "lohit",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 169954,
+                    "amount": 393361044.4830233
+                }
+            },
+            {
+                "entityName": "namsai",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 117173,
+                    "amount": 256004887.5750422
+                }
+            },
+            {
+                "entityName": "west siang",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 92331,
+                    "amount": 315562272.5888671
+                }
+            },
+            {
+                "entityName": "tawang",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 86721,
+                    "amount": 346661566.51465106
+                }
+            },
+            {
+                "entityName": "lower dibang valley",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 83531,
+                    "amount": 235243185.52128848
+                }
+            },
+            {
+                "entityName": "lower subansiri",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 73100,
+                    "amount": 239825149.91154164
+                }
+            }
+        ],
+        "pincodes": [
+            {
+                "entityName": "791113",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 336780,
+                    "amount": 819363323.7219163
+                }
+            },
+            {
+                "entityName": "791110",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 332485,
+                    "amount": 853173424.1985552
+                }
+            },
+            {
+                "entityName": "791111",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 262617,
+                    "amount": 658150204.3789485
+                }
+            },
+            {
+                "entityName": "791102",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 159945,
+                    "amount": 417052440.2856392
+                }
+            },
+            {
+                "entityName": "792103",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 129210,
+                    "amount": 277477788.7356235
+                }
+            },
+            {
+                "entityName": "792001",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 121068,
+                    "amount": 265189556.26145488
+                }
+            },
+            {
+                "entityName": "791109",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 111918,
+                    "amount": 254266306.42573798
+                }
+            },
+            {
+                "entityName": "791001",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 105769,
+                    "amount": 364396148.4248719
+                }
+            },
+            {
+                "entityName": "792110",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 84017,
+                    "amount": 238200426.2222041
+                }
+            },
+            {
+                "entityName": "790116",
+                "metric": {
+                    "type": "TOTAL",
+                    "count": 82546,
+                    "amount": 221708919.60946545
+                }
+            }
+        ]
+    },
+    "responseTimestamp": 1651127623269
+}
